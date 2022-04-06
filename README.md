@@ -9,4 +9,4 @@ I'm hoping to improve the UX of Ultimate-Guitar, which hosts guitar tabs for beg
 
 https://www.ultimate-guitar.com/
 
-![Ultimate-Guitar](./Assignment 01 (Heuristics)/Figures/UG_Large_Screen.png)
+![Ultimate-Guitar](./Heuristics (Assignment 01)/Figures/UG_Large_Screen.png)
