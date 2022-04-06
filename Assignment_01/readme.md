@@ -2,7 +2,7 @@
 
 James Yoon
 
-Digital Humanities 110: User Experience and Design
+Digital Humanities 110: *User Experience and Design* (Spring '22)
 
 ### Description
 
@@ -31,6 +31,7 @@ To evaluate the user experience of each site, I will use [Nielsen's 10 Usability
 | 9. Help users recognize, diagnose, and recover from errors    | Users should know when they have encountered an error and what steps to take afterward. A 404 error may mean a lot to an IT specialist, but a novice user may not understand what it means. One should put the error message into plain terms and guide them through troubleshooting.        |
 | 10. Help and documentation    | Similar to #9, if errors occur, there should be resources to help users troubleshoot. This documentation should be accessible and easy to search, and it should be readable by users not familiar with IT.        |
 
+I'll rank each site by each of the ten usability heuristics, in addiiton to a severity score relating to how urgently this heuristic should be fixed. The severity score is in the range \[1,3\], with 1 being not severe and 3 being the most severe.
 
 ### UltimateGuitar.com
 
@@ -40,7 +41,7 @@ From my impressions, UltimateGuitar strives to be a one-stop center for all guit
 
 | Heuristic      | Description |
 | ----------- | ----------- |
-| 1. Visibility of system status      | Websites and apps should tell users the "status" of the system. This can include whether a page is loading, whether there is an error, or whether the device is connected to the Internet. There needs to be a way that they can monitor this **easily** without having to sift through the website.       |
+| 1. Visibility of system status      |       |
 | 2. Match between system and real world    |        |
 | 3. User control and freedom    | Text        |
 | 4. Consistency and standards    | Text        |
