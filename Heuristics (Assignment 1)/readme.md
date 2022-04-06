@@ -4,6 +4,10 @@ James Yoon
 
 Digital Humanities 110: *User Experience and Design* (Spring '22)
 
+### Description
+
+I want to improve the UX experience on Ultimate-Guitar.com to make it less cluttered and more accessible for novice guitar players.
+
 ### Introduction
 
 When first learning guitar, many learners gravitate toward learning the chord progressions for their favorite songs, whether they be from rock, country, pop, or other genres. By practicing the finger placement associated with each chord and basic strumming, amateur guitar players can start to play a wide range of songs, which can boost their confidence and motivate them to keep practicing. 
