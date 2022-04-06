@@ -37,7 +37,7 @@ I'll rank each site by each of the ten usability heuristics, in addiiton to a se
 
 [UltimateGuitar.com](https://www.ultimate-guitar.com/) hosts 1,100,000 guitar tabs, as well as forums, guided guitar courses, and video hosting for users to share their own guitar recordings. Although most of the tabs are crowd-sourced, each tab is associated with a rating out of five stars that players can use to rate how well the tab corresponds to the original song's progression. 
 
-![Ultimate-Guitar Large Screen](/Figures/UG_Large_Screen.png)
+![Ultimate-Guitar Large Screen](./Figures/UG_Large_Screen.png)
 
 From my first impressions prior to heuristic evaluation, UltimateGuitar strives to be a one-stop center for all guitar enthusiasts: by hosting tabs, courses, and a forum, guitar players can build community while learning their favorite songs. In addition, its crowd-sourcing creates a large library of tabs, and the rating system allows more accurate chords to be indicated over lower-quality tabs. However, I do wonder if its rather cluttered design may be a result of its wide range of purposes. By focusing on too many things, it's hard to pinpoint exactly what's important.
 
