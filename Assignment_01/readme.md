@@ -55,6 +55,12 @@ There is a lot of dynamic content on the frontpage - for instance, the featured 
 | 10. Help and documentation    | By clicking "Report a Problem" on Heuristic 9, you're directed to a customer service page that has a large search bar at the top, followed by "Top Questions". The documentation is fairly well-written, although there are tags like \[website\] before the question that could be moved below the question itself. There's also a stock picture of a man with the caption "This guy knows what to do." for immediate customer support. Overall, aside from maybe changing the placement of the tags, the website fulfills this heuristic well.    | 1 |
 
 
+## Chordify
+
+[Chordify](https://chordify.net/en) is a service similar to Ultimate-Guitar.com that generates tabs for a wide variety of pop, rock, and country songs. The website uses YouTube videos (or videos on other hosting sites) to automatically create tabs, as opposed to Ultimate-Guitar's crowd-sourcing. 
+
+My first impressions of the site were that the color scheme and the layout was overall much less cluttered and more pleasing than Ultimate-Guitar. The site was clearly mobile-optimized, as I was able to decrease my screen size without any overflow. The design appears a lot more intuitive and more novice-friendly, which may be due to this site's narrower scope (it doesn't have a video hosting subpage or a forum). 
+
 | Heuristic      | Description |
 | ----------- | ----------- |
 | 1. Visibility of system status      | Websites and apps should tell users the "status" of the system. This can include whether a page is loading, whether there is an error, or whether the device is connected to the Internet. There needs to be a way that they can monitor this **easily** without having to sift through the website.       |
