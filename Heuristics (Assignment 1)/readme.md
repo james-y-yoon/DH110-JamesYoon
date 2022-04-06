@@ -43,6 +43,8 @@ I'll rank each site by each of the ten usability heuristics, in addiiton to a se
 
 ![Ultimate-Guitar Large Screen](./Figures/UG_Large_Screen.png)
 
+
+### First Impressions
 From my first impressions prior to heuristic evaluation, UltimateGuitar strives to be a one-stop center for all guitar enthusiasts: by hosting tabs, courses, and a forum, guitar players can build community while learning their favorite songs. In addition, its crowd-sourcing creates a large library of tabs, and the rating system allows more accurate chords to be indicated over lower-quality tabs. However, I do wonder if its rather cluttered design may be a result of its wide range of purposes. By focusing on too many things, it's hard to pinpoint exactly what's important.
 
 There is a lot of dynamic content on the frontpage - for instance, the featured tab changes every 5 seconds or so. This might make it difficult for people who have slow Internet connections. Furthermore, viewing the website on smaller screens makes the ratings run into the banner ads on the side, so I suspect the website isn't mobile/small-screen optimized. Finally, the ads are very invasive and degrade the experience quite drastically.
@@ -69,7 +71,7 @@ There is a lot of dynamic content on the frontpage - for instance, the featured 
 
 ![Chordify Large Screen](./Figures/Chordify_Large_Screen.png)
 
-
+### First Impressions
 My first impressions of the site were that the color scheme and the layout was overall much less cluttered and more pleasing than Ultimate-Guitar. The site was clearly mobile-optimized, as I was able to decrease my screen size without any overflow. The design appears a lot more intuitive and more novice-friendly, which may be due to this site's narrower scope (it doesn't have a video hosting subpage or a forum). 
 
 ![Chordify Small Screen](./Figures/Chordify_Small_Screen.png)
