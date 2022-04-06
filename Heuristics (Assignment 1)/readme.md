@@ -43,6 +43,8 @@ From my first impressions prior to heuristic evaluation, UltimateGuitar strives 
 
 There is a lot of dynamic content on the frontpage - for instance, the featured tab changes every 5 seconds or so. This might make it difficult for people who have slow Internet connections. Furthermore, viewing the website on smaller screens makes the ratings run into the banner ads on the side, so I suspect the website isn't mobile/small-screen optimized. Finally, the ads are very invasive and degrade the experience quite drastically.
 
+![Ultimate-Guitar Small Screen](./Figures/UG_Small_Screen.png)
+
 | Heuristic      | Evaluation | Severity Score (3 being the most)|
 | ----------- | ----------- | ----------- |
 | 1. Visibility of system status      | From the frontpage, we see that there's a large blue banner ad at the top that advertises a spring sale, and there's another ad that encourages you to buy Pro. When searching up tabs for Harry Styles' song "As It Was", a large "Pro" sign and red coloring indicates that only subscription members can access a recording of this tab. Overall, this website does a good job of showing the system/account status: in this case, of what features we have as a free member.    | 1 |
@@ -61,7 +63,13 @@ There is a lot of dynamic content on the frontpage - for instance, the featured 
 
 [Chordify](https://chordify.net/en) is a service similar to Ultimate-Guitar.com that generates tabs for a wide variety of pop, rock, and country songs. The website uses YouTube videos (or videos on other hosting sites) to automatically create tabs, as opposed to Ultimate-Guitar's crowd-sourcing. 
 
+![Chordify Large Screen](./Figures/Chordify_Large_Screen.png)
+
+
 My first impressions of the site were that the color scheme and the layout was overall much less cluttered and more pleasing than Ultimate-Guitar. The site was clearly mobile-optimized, as I was able to decrease my screen size without any overflow. The design appears a lot more intuitive and more novice-friendly, which may be due to this site's narrower scope (it doesn't have a video hosting subpage or a forum). 
+
+![Chordify Small Screen](./Figures/Chordify_Small_Screen.png)
+
 
 | Heuristic      | Description | Severity Score |
 | ----------- | ----------- | ----------- |
