@@ -1,6 +1,7 @@
 # Improving User Experience on UltimateGuitar.com Tabs
 
 James Yoon
+
 Digital Humanities 110: User Experience and Design
 
 ### Description
