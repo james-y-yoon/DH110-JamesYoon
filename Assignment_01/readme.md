@@ -4,7 +4,7 @@ James Yoon
 
 Digital Humanities 110: *User Experience and Design* (Spring '22)
 
-### Description
+### Introduction
 
 When first learning guitar, many learners gravitate toward learning the chord progressions for their favorite songs, whether they be from rock, country, pop, or other genres. By practicing the finger placement associated with each chord and basic strumming, amateur guitar players can start to play a wide range of songs, which can boost their confidence and motivate them to keep practicing. 
 
@@ -37,20 +37,22 @@ I'll rank each site by each of the ten usability heuristics, in addiiton to a se
 
 [UltimateGuitar.com](https://www.ultimate-guitar.com/) hosts 1,100,000 guitar tabs, as well as forums, guided guitar courses, and video hosting for users to share their own guitar recordings. Although most of the tabs are crowd-sourced, each tab is associated with a rating out of five stars that players can use to rate how well the tab corresponds to the original song's progression. 
 
-From my impressions, UltimateGuitar strives to be a one-stop center for all guitar enthusiasts: by hosting tabs, courses, and a forum, guitar players can build community while learning their favorite songs. In addition, its crowd-sourcing creates a large library of tabs, and the rating system allows more accurate chords to be indicated over lower-quality tabs. However, I do wonder if its rather cluttered design may be a result of its wide range of purposes. By focusing on too many things, it's hard to pinpoint exactly what's important.
+From my first impressions prior to heuristic evaluation, UltimateGuitar strives to be a one-stop center for all guitar enthusiasts: by hosting tabs, courses, and a forum, guitar players can build community while learning their favorite songs. In addition, its crowd-sourcing creates a large library of tabs, and the rating system allows more accurate chords to be indicated over lower-quality tabs. However, I do wonder if its rather cluttered design may be a result of its wide range of purposes. By focusing on too many things, it's hard to pinpoint exactly what's important.
 
-| Heuristic      | Description |
-| ----------- | ----------- |
-| 1. Visibility of system status      |       |
-| 2. Match between system and real world    |        |
-| 3. User control and freedom    | Text        |
-| 4. Consistency and standards    | Text        |
-| 5. Error prevention    | Text        |
-| 6. Recognition rather than recall   | Text        |
-| 7. Flexibility and efficiency of use    | Text        |
-| 8. Aesthetic and minimalist design    | Text        |
-| 9. Help users recognize, diagnose, and recover from errors    | Text        |
-| 10. Help and documentation    | Text        |
+There is a lot of dynamic content on the frontpage - for instance, the featured tab changes every 5 seconds or so. This might make it difficult for people who have slow Internet connections. Furthermore, viewing the website on smaller screens makes the ratings run into the banner ads on the side, so I suspect the website isn't mobile/small-screen optimized. Finally, the ads are very invasive and degrade the experience quite drastically.
+
+| Heuristic      | Evaluation | Severity Score (3 being the most)|
+| ----------- | ----------- | ----------- |
+| 1. Visibility of system status      | From the frontpage, we see that there's a large blue banner ad at the top that advertises a spring sale, and there's another ad that encourages you to buy Pro. When searching up tabs for Harry Styles' song "As It Was", a large "Pro" sign and red coloring indicates that only subscription members can access a recording of this tab. Overall, this website does a good job of showing the system/account status: in this case, of what features we have as a free member.    | 1 |
+| 2. Match between system and real world    | I navigated to the tabs for "So Hot You're Hurting My Feelings" by Caroline Polachek, and I see that the website displays fingerings at the top in standard guitar notation. A new player may not know how to read these diagrams, so I would recommend having the option for more guided tabs or a link to a tutorial that teaches them how to read it. Nevertheless, these diagrams mirror real-life fingerings well, as it is basically a schematic of the guitar board itself.       | 2 |
+| 3. User control and freedom    | If you press "Publish tab" at the top, the website layout completely changes so that you can't go back to the homepage or the main menu without pressing "Back" on your web browser. This makes it difficult to undo if you accidentally press this tab. To solve this, they should keep the main menu bar present in this subpage.        | 2 |
+| 4. Consistency and standards    | Similarly to #2, the guitar fingering schematics are similar to other websites and guitar guides. However, the use of the word "Shots" in the main menu to refer to TikTok-like videos is UltimateGuitar-specific jargon and should be replaced with "Videos". Furthermore, the word "hits" should be replaced with "Views", since "hits" can also be considered website-specific jargon.      | 3 |
+| 5. Error prevention    | By searching for a string of random letters (e.g. "sldfjslak"), I received a message that "Sorry, there are no songs found for your request (unless you typed it wrong)". The message then provided the option for me to make a new tab. This is a great way to prevent typing errors, as it highlights a potential issue while giving the user flexibility to create their own tab if it wasn't actually a misspelling.        | 1 |
+| 6. Recognition rather than recall   | When you navigate to "Shots" (video hosting similar to TikTok), there is a blue dialogue bubble at the bottom that directs you to "TURN ON THE SOUND"; the arrow is clear as to where it points, and the sound icon is a standard speaker icon with a X when muted. Overall, this website fulfills this heuristic well.       | 1 |
+| 7. Flexibility and efficiency of use    | Although there is a lot of flexibility in this design that allows beginner, intermediate, and advanced users to navigate the site, it is clearly tailored toward intermediate and advanced users. The portion of the site tailored to beginners ("Courses") is the third menu option and is fairly hidden on the homepage. When searching for a tab, one can pick the difficulty on the left hand side, but this option is immediately followed by "Tuning" (which is a slightly more advanced concept. I would recommend making the design more accessible for beginners while providing shortcuts for more advanced players, rather than the opposite way around. At the very least, the Courses tab should be the second menu option and more advertised on the home page.          | 3 |
+| 8. Aesthetic and minimalist design    | Text        | |
+| 9. Help users recognize, diagnose, and recover from errors    | I entered         | |
+| 10. Help and documentation    | Text        | |
 
 
 | Heuristic      | Description |
