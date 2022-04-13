@@ -22,7 +22,7 @@ It is often useful to couple heuristic analysis by experts with UT. Heuristic an
 
 For my heuristic analysis of Ultimate-Guitar, I found that there were quite a few problems with **consistency** (namely what "Shots" in the main menu refers to), **flexibility** (that it's too tailored to advanced users and guitar players), and **aesthetics** (too much information on the homepage). 
 
-To accomodate this, I designed four tasks for UT (as this assignment entailed *at least* 3 tasks for our pilot UT): 
+To accomodate this, I designed four tasks for UT (as this assignment entailed at least 3 tasks for our pilot UT): 
 
 | Task      | Description |
 | ----------- | ----------- |
