@@ -42,7 +42,7 @@ UT entails the following:
 - Participant: Chelsey Wang (fourth year at UCLA, she/her)
 - Website in question: Ultimate-Guitar.com
 - Consent Form + Survey: [The link to the survey can be found here.](https://forms.gle/CzKvjCVuCQqvn1zn7)
-- Place: portable minimalistic lab setting
+- Place: portable minimalistic lab setting (UCLA classroom)
 - Recording software: Zoom
 
 ## Video Recording
