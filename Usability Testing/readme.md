@@ -26,7 +26,7 @@ To accomodate this, I designed four tasks for UT: navigating the Courses page (e
 
 ## Survey
 
-(The link to the survey can be found here.)[https://forms.gle/CzKvjCVuCQqvn1zn7].
+[The link to the survey can be found here.](https://forms.gle/CzKvjCVuCQqvn1zn7).
 
 ## Video Recording
 
