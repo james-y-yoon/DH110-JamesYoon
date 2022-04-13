@@ -24,9 +24,18 @@ For my heuristic analysis of Ultimate-Guitar, I found that there were quite a fe
 
 To accomodate this, I designed four tasks for UT: navigating the Courses page (ensures that beginners can still access appropriate material), transposing a guitar tab (ensures that users can access important guitar tab changes), watching and interacting with Shots (addresses consistency in navigation), and entering and interacting with recent forum threads (partly aesthetics and flexibility - can a user navigate to forums without being distracted by the other modules)?
 
-## Survey
+This UT will serve as a pilot. By analyzing how well this test goes, we can improve these UT tasks for an official round later this quarter.
 
-[The link to the survey can be found here.](https://forms.gle/CzKvjCVuCQqvn1zn7).
+# Materials
+
+UT entails the following:
+
+- A moderator: me
+- Participant: Chelsey Wang (fourth year at UCLA)
+- Website in question: Ultimate-Guitar.com
+- Consent Form + Survey: [The link to the survey can be found here.](https://forms.gle/CzKvjCVuCQqvn1zn7)
+- Place: portable minimalistic lab setting
+- Recording software: Zoom
 
 ## Video Recording
 
