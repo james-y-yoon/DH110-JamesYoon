@@ -47,7 +47,7 @@ UT entails the following:
 
 ## Video Recording
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BZpGUiXzvVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="760" height="427" src="https://www.youtube.com/embed/BZpGUiXzvVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If the embedded video does not work, [the video can also be found here](https://www.youtube.com/watch?v=BZpGUiXzvVM&ab_channel=JamesYoon).
 
