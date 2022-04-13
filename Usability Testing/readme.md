@@ -29,7 +29,7 @@ To accomodate this, I designed four tasks for UT:
 | 1      | Navigating the Courses page (ensures that beginners can still access appropriate material)       |
 | 2   | Transposing and reading a guitar tab (ensures that users can access important guitar tab changes) |
 | 3   | Watching and interacting with Shots (addresses consistency in navigation, interacting with multimedia)   |
-| 4   | Entering and interacting with recent forum threads (partly aesthetics and flexibility - can a user navigate to forums without being distracted by the other modules) |
+| 4   | Entering and interacting with recent forum threads (partly aesthetics and flexibility - can a user navigate to forums without being distracted by the other modules)? |
 
 
 This UT will serve as a pilot. By analyzing how well this test goes, we can improve these UT tasks for an official round later this quarter.
