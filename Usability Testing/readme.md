@@ -53,7 +53,7 @@ If the embedded video does not work, [the video can also be found here](https://
 
 Note that in the video, the participant's face was not recorded. This was due to a number of factors:
 
-- My participant could not take off their mask and preferred to keep the facecam off in the recording.
+- My participant could not take off their mask.
 - The Zoom meeting was recorded locally and under the "Shared Window" layout, which may have potentially also disabled the camera recording. According to [Zoom](https://support.zoom.us/hc/en-us/articles/360025561091-Recording-layouts), the face camera only operates when the shared screen does not take up the full screen. Since this UT entailed sharing one's full screen due to both the survey and the website being on the Desktop at the same time, this may have been why. If I were to conduct another UT, I would record to the Cloud, as there is more flexibility in the layout there.
 
 However, in the future, official UT will use the facecam to identify key facial expressions during the test. Instead, she verbalized what she was thinking, and some of the inflections help us understand how she was feeling at the time.
@@ -62,12 +62,15 @@ However, in the future, official UT will use the facecam to identify key facial 
 
 The usability test was a useful pilot run. It didn't go perfectly, but I feel like I learned a lot about how to conduct these tests and how to be a better moderator. This was also my first time being a moderator (I was the participant during the in-class activity), so it was a learning process as well.
 
+### What went well!
 One thing that went smoothly was that my participant was very vocal. She described what she was thinking as she was performing the task, which made it easy to see where she focused her attention on and why certain tasks might have been easier/harder for her. One observation she made was that the videos on Ultimate-Guitar are similar to the controls on TikTok - this connects with the consistency heuristic and highlights how one can make design more learnable. 
 
 Furthermore, there were times when she laughed or where how she was feeling was evident from her tone of voice, which helps identify what specific emotions users may feel when prompted to navigate through the website. This made up for the lack of video, but I do want to use video + hopefully no masks later in my official UT so that I can couple these inflections with facial expressions.
 
 Another strength was that I got more comfortable with moderating as the testing began. By the third and fourth task, I got the hang of how much I should talk and encourage my participant, although it was a bit awkward in the first two tasks. I definitely improved in starting to redirect questions!
 
+
+### What to improve on!
 There were quite a few ways in which I could've improved my testing.
 
 - First, the Google form I created forced all respondents to fill out "For what purpose do you use Ultimate-Guitar.com?" and "Which type of device do you usually use to access Ultimate-Guitar.com?" on the Background Questions section, even if the respondent had never used Ultimate-Guitar before. I had my participant put "N/A" and the device they were using at that moment, respectively, but I went back afterwards and made those questions optional. 
@@ -79,7 +82,4 @@ There were quite a few ways in which I could've improved my testing.
 
 - **Time!** The tasks went a bit shorter than expected because of Task 1. I said that she could skip on to the next task without watching videos, since I wanted to be respectful of her time. If I did encourage her to start watching the videos to find the answer in Unit 2, the UT would've taken up to 1 hour, which was also the point of that task - I wanted to show that this information wasn't readily available and was hidden behind locked videos. I should either decide on guidelines for how to approach this task or redesign this task on finding the guitar string names entirely.
 
-What was interesting was that I could use my understanding of the 10 usability heuristics to inform my UT questions. I'm not sure if I did this the best (e.g. asking what the "Shots" tab would do in the pre-test questionnaire, designing Task 1 to take such a long time), but this data does confirm some of the potential flaws that I identified.
-
-
-I did find that some of her observations, namely that the website had a lot of things going on, did correspond well with my heuristic analysis (heuristic 8 on minimalism and aesthetics). In addition, since she can be considered a beginner guitar player, this pilot test supports my suspicion that Ultimate-Guitar is a bit too tailored for intermediate and advanced guitar players. It was a fun learning experience, and I'm excited to conduct more UT in the future.
+What was interesting was that I could use my understanding of the 10 usability heuristics to inform my UT questions. I'm not sure if I did this the best (e.g. asking what the "Shots" tab would do in the pre-test questionnaire, designing Task 1 to take such a long time), but this data does confirm some of the potential flaws that I identified. In addition, since she can be considered a beginner guitar player, this pilot test supports my suspicion that Ultimate-Guitar is a bit too tailored for intermediate and advanced guitar players. It was a fun learning experience, and I'm excited to conduct more UT in the future.
