@@ -30,7 +30,7 @@ This UT will serve as a pilot. By analyzing how well this test goes, we can impr
 
 UT entails the following:
 
-- A moderator: me
+- A moderator: James Yoon
 - Participant: Chelsey Wang (fourth year at UCLA)
 - Website in question: Ultimate-Guitar.com
 - Consent Form + Survey: [The link to the survey can be found here.](https://forms.gle/CzKvjCVuCQqvn1zn7)
