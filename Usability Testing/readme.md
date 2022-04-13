@@ -1,6 +1,9 @@
 # Usability Evaluation
-Assignment 2, Digital Humanities 110 (S'22)
+Assignment 2
+Digital Humanities 110 (S'22)
 James Yoon
+
+
 
 ## What is Usability Testing (UT)?
 
