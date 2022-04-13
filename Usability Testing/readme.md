@@ -39,6 +39,13 @@ UT entails the following:
 
 ## Video Recording
 
-The link to the video recording can be found here.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BZpGUiXzvVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Note that in the video, the participant's face was not recorded. This was due to a number of factors:
+
+- My participant could not take off their mask and preferred to keep the facecam off in the recording.
+- The Zoom meeting was recorded locally. According to [Zoom](https://support.zoom.us/hc/en-us/articles/360025561091-Recording-layouts), the face camera only operates when the shared screen does not take up the full screen. Since this UT entailed sharing one's full screen due to both the survey and the website being on the Desktop at the same time, this may have been why. If I were to conduct another UT, I would record to the Cloud, as there is more flexibility in the layout there.
+
+However, in the future, official UT will use the facecam to identify key facial expressions during the test. Instead, she verbalized what she was thinking, and some of the inflections help us understand how she was feeling at the time.
 
 ## Reflections
