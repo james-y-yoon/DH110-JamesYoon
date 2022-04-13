@@ -41,6 +41,8 @@ UT entails the following:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BZpGUiXzvVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+If the embedded video does not work, [the video can also be found here](https://www.youtube.com/watch?v=BZpGUiXzvVM&ab_channel=JamesYoon).
+
 Note that in the video, the participant's face was not recorded. This was due to a number of factors:
 
 - My participant could not take off their mask and preferred to keep the facecam off in the recording.
@@ -49,3 +51,5 @@ Note that in the video, the participant's face was not recorded. This was due to
 However, in the future, official UT will use the facecam to identify key facial expressions during the test. Instead, she verbalized what she was thinking, and some of the inflections help us understand how she was feeling at the time.
 
 ## Reflections
+
+
