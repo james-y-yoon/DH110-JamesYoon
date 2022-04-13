@@ -1,5 +1,4 @@
-# Usability Evaluation
-Assignment 2
+# Assignment 2: Usability Evaluation
 
 Digital Humanities 110 (S'22)
 
