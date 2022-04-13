@@ -22,14 +22,14 @@ It is often useful to couple heuristic analysis by experts with UT. Heuristic an
 
 For my heuristic analysis of Ultimate-Guitar, I found that there were quite a few problems with **consistency** (namely what "Shots" in the main menu refers to), **flexibility** (that it's too tailored to advanced users and guitar players), and **aesthetics** (too much information on the homepage). 
 
-To accomodate this, I designed four tasks for UT: 
+To accomodate this, I designed four tasks for UT (as this assignment entailed *at least* 3 tasks for our pilot UT): 
 
 | Task      | Description |
 | ----------- | ----------- |
-| 1      | Navigating the Courses page (ensures that beginners can still access appropriate material)       |
-| 2   | Transposing and reading a guitar tab (ensures that users can access important guitar tab changes) |
-| 3   | Watching and interacting with Shots (addresses consistency in navigation, interacting with multimedia)   |
-| 4   | Entering and interacting with recent forum threads (partly aesthetics and flexibility - can a user navigate to forums without being distracted by the other modules)? |
+| 1      | Navigating the Courses page (ensures that beginners can still access appropriate material - Heuristic 7)       |
+| 2   | Transposing and reading a guitar tab (ensures that users can access important guitar tab changes - Heuristic 2/6/usability as a whole) |
+| 3   | Watching and interacting with Shots (addresses consistency in navigation, interacting with multimedia) - Heuristic 4   |
+| 4   | Entering and interacting with recent forum threads (partly aesthetics and flexibility - can a user navigate to forums without being distracted by the other modules?) - Heuristic 8 |
 
 
 This UT will serve as a pilot. By analyzing how well this test goes, we can improve these UT tasks for an official round later this quarter.
