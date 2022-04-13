@@ -46,7 +46,7 @@ If the embedded video does not work, [the video can also be found here](https://
 Note that in the video, the participant's face was not recorded. This was due to a number of factors:
 
 - My participant could not take off their mask and preferred to keep the facecam off in the recording.
-- The Zoom meeting was recorded locally. According to [Zoom](https://support.zoom.us/hc/en-us/articles/360025561091-Recording-layouts), the face camera only operates when the shared screen does not take up the full screen. Since this UT entailed sharing one's full screen due to both the survey and the website being on the Desktop at the same time, this may have been why. If I were to conduct another UT, I would record to the Cloud, as there is more flexibility in the layout there.
+- The Zoom meeting was recorded locally and under the "Shared Window" layout, which may have potentially also disabled the camera recording. According to [Zoom](https://support.zoom.us/hc/en-us/articles/360025561091-Recording-layouts), the face camera only operates when the shared screen does not take up the full screen. Since this UT entailed sharing one's full screen due to both the survey and the website being on the Desktop at the same time, this may have been why. If I were to conduct another UT, I would record to the Cloud, as there is more flexibility in the layout there.
 
 However, in the future, official UT will use the facecam to identify key facial expressions during the test. Instead, she verbalized what she was thinking, and some of the inflections help us understand how she was feeling at the time.
 
