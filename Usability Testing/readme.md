@@ -31,7 +31,7 @@ This UT will serve as a pilot. By analyzing how well this test goes, we can impr
 UT entails the following:
 
 - A moderator: James Yoon
-- Participant: Chelsey Wang (fourth year at UCLA)
+- Participant: Chelsey Wang (fourth year at UCLA, she/her)
 - Website in question: Ultimate-Guitar.com
 - Consent Form + Survey: [The link to the survey can be found here.](https://forms.gle/CzKvjCVuCQqvn1zn7)
 - Place: portable minimalistic lab setting
@@ -52,4 +52,23 @@ However, in the future, official UT will use the facecam to identify key facial 
 
 ## Reflections
 
+The usability test was a useful pilot run. It didn't go perfectly, but I feel like I learned a lot about how to conduct these tests and how to be a better moderator. This was also my first time being a moderator (I was the participant during the in-class activity), so it was a learning process as well.
 
+One thing that went smoothly was that my participant was very vocal. She described what she was thinking as she was performing the task, which made it easy to see where she focused her attention on and why certain tasks might have been easier/harder for her. One observation she made was that the videos on Ultimate-Guitar are similar to the controls on TikTok - this connects with the consistency heuristic and highlights how one can make design more learnable. 
+
+Furthermore, there were times when she laughed or where how she was feeling was evident from her tone of voice, which helps identify what specific emotions users may feel when prompted to navigate through the website. This made up for the lack of video, but I do want to use video + hopefully no masks later in my official UT so that I can couple these inflections with facial expressions.
+
+Another strength was that I got more comfortable with moderating as the testing began. By the third and fourth task, I got the hang of how much I should talk and encourage my participant, although it was a bit awkward in the first two tasks. I definitely improved in starting to redirect questions!
+
+There were quite a few ways in which I could've improved my testing.
+
+- First, the Google form I created forced all respondents to fill out "For what purpose do you use Ultimate-Guitar.com?" and "Which type of device do you usually use to access Ultimate-Guitar.com?" on the Background Questions section, even if the respondent had never used Ultimate-Guitar before. I had my participant put "N/A" and the device they were using at that moment, respectively, but I went back afterwards and made those questions optional. 
+
+
+- In regards to the first two tasks, there were two places when I wasn't sure what to do. The first was during Task 1, when my participant asked whether she should start watching the videos on the Courses page to find the answer. I was nervous that this would take too much time (it took me quite a bit of time when I designed this survey, and I wanted to be respectful of her time), so I told her she could continue with the next task or start watching the videos to find the answer. Part of my rationale was that I intentionally designed that task to take a lot of time *because* I think locking the videos until you watch the previous one makes for bad flexibility, but I wasn't too sure how to proceed with the constraints of UT.
+
+- The second was during Task 2 when she asked what an alternate guitar fingering was. She has never played guitar before, so it was expected that she didn't know what it meant. However, if I were to try to find people in my desired demographic group (i.e. middle-aged men interested in learning *guitar*), I'm not sure whether guitar fingering charts/finger placements would be jargon for them as well. 
+
+- **Time!** The tasks went a bit shorter than expected because of Task 1. I said that she could skip on to the next task without watching videos, since I wanted to be respectful of her time. If I did encourage her to start watching the videos to find the answer in Unit 2, the UT would've taken up to 1 hour, which was also the point of that task - I wanted to show that this information wasn't readily available and was hidden behind locked videos. I should either decide on guidelines for how to approach this task or redesign this task on finding the guitar string names entirely.
+
+I did find that some of her observations, namely that the website had a lot of things going on, did correspond well with my heuristic analysis (heuristic 8 on minimalism and aesthetics). In addition, since she can be considered a beginner guitar player, this pilot test supports my suspicion that Ultimate-Guitar is a bit too tailored for intermediate and advanced guitar players. It was a fun learning experience, and I'm excited to conduct more UT in the future.
