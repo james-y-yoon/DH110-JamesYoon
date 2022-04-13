@@ -71,4 +71,7 @@ There were quite a few ways in which I could've improved my testing.
 
 - **Time!** The tasks went a bit shorter than expected because of Task 1. I said that she could skip on to the next task without watching videos, since I wanted to be respectful of her time. If I did encourage her to start watching the videos to find the answer in Unit 2, the UT would've taken up to 1 hour, which was also the point of that task - I wanted to show that this information wasn't readily available and was hidden behind locked videos. I should either decide on guidelines for how to approach this task or redesign this task on finding the guitar string names entirely.
 
+What was interesting was that I could use my understanding of the 10 usability heuristics to inform my UT questions. I'm not sure if I did this the best (e.g. asking what the "Shots" tab would do in the pre-test questionnaire, designing Task 1 to take such a long time), but this data does confirm some of the potential flaws that I identified.
+
+
 I did find that some of her observations, namely that the website had a lot of things going on, did correspond well with my heuristic analysis (heuristic 8 on minimalism and aesthetics). In addition, since she can be considered a beginner guitar player, this pilot test supports my suspicion that Ultimate-Guitar is a bit too tailored for intermediate and advanced guitar players. It was a fun learning experience, and I'm excited to conduct more UT in the future.
