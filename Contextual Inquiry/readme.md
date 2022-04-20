@@ -1,6 +1,7 @@
 # Assignment 3: Contextual Inquiry
 
 James Yoon
+
 Digital Humanities 110: User Experience and Design (S'22)
 
 ## Research Goal and Requirements
@@ -14,9 +15,14 @@ Digital Humanities 110: User Experience and Design (S'22)
 ### Traditional Solutions & Limitations
 There are a couple of solutions currently available, each with their own limitations.
 
+#### \[Current\] Ultimate Guitar
 - The current iteration of Ultimate-Guitar is crowded and isn't beginner friendly, but fulfills many of the goals that I set out to target (community, tabs, courses). This project seeks to improve Ultimate-Guitar's UX.
+
+#### YouTube/Video Hosting
 - YouTube can also be a way to learn guitar, but unlike a traditional course, there is no sense of self-assessment nor progression. It can be easy to find differing opinions on certain guitar techniques or the order in which you learn them. In addition, not every video might have tabs or sheet music for those who want to learn a song on their own.
-- Traditional guitar lessons: These may not be affordable nor accessible to everyone, and there's less flexibility in regards to what songs you get to play (e.g. you may not be able to learn your favorite genre of music, or your teacher may be classically trained when you'd prefer a less formal teaching style.
+
+#### Traditional Guitar Lessons
+- These may not be affordable nor accessible to everyone, and there's less flexibility in regards to what songs you get to play (e.g. you may not be able to learn your favorite genre of music, or your teacher may be classically trained when you'd prefer a less formal teaching style.
 
 
 
