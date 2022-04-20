@@ -44,7 +44,7 @@ I chose to observe a small group ensemble rehearsal on Saturday, April 16th at 5
 
 - [The interview guide can be found here.](Field%20Research%20Script.pdf)
 - The audio recording of the interview can be found here.
-- The transcript can be found here.
+- [The transcript can be found here.](Script.pdf)
 - [The field notes from overt observation can be found here:](Ethnography-Field-Notes.pdf)
 - \[As supplemental data\] The audio recording of the observation can be found here. (Note: No script associated with it)
 - Pictures from the interview and observation can be found below.
@@ -53,3 +53,6 @@ I chose to observe a small group ensemble rehearsal on Saturday, April 16th at 5
 
 # Reflection
 
+## Initial Thoughts
+
+Overall, I thought the interview went well. The interview initially focused on keyboard and piano, just because he was the pianist (and Ultimate-Guitar actually does have Piano tabs, along with Guitar and Ukelele), 
