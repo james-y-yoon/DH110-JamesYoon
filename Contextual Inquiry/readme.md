@@ -45,8 +45,10 @@ I chose to observe a small group ensemble rehearsal on Saturday, April 16th at 5
 - [The interview guide can be found here.](Field%20Research%20Script.pdf)
 - The audio recording of the interview can be found here.
 - The transcript can be found here.
-- The field notes from overt observation can be found here:
+- [The field notes from overt observation can be found here:](Ethnography-Field-Notes.pdf)
 - Pictures from the interview and observation can be found below.
+
+![Interview Picture](Interview_Picture.png)
 
 # Reflection
 
