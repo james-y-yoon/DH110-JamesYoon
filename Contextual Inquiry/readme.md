@@ -110,4 +110,12 @@ More importantly, I looked at how they interacted with their sheet music. The tr
 
 Finally, I found it interesting that 5 of the 6 players raised their hands when the conductor asked how many of them listened to the soundtrack. (It is possible that the sixth player raised their hand but that I didn't catch it). This highlights how important playing to a track is. If established musicians like these rely on music tracks for sight-reading (on YouTube or Spotify), beginners might want that same functionality as well. This should be a major component of these guitar tabs.
 
+## Lessons Learned
 
+My strengths/weaknesses during the procedure were as follows:
+
+- I thought I came in with a fairly thorough script that was tailored to my purpose but thorough enough to allow the interviewee to expand on their interests.
+- I thought the observation and the interview coupled fairly well, although I would also want to try and do a more covert observation so that my presence doesn't affect their actions.
+- I would want to allocate more time to the interview. I conducted this interview right before their rehearsal, so you can start to hear some instruments warming-up at the end of the recording. Perhaps this interview would be better after a rehearsal, when there isn't as much of a time crunch. In addition, I could have moved the interview to a different room.
+- The interviewee did start playing the piano and pointing at his music during the activities, but he gradually stopped during the second one (how does he determine what songs he finds interesting). I would want to ask him to act it out and to play if necessary to demonstrate what he is saying.
+- I'd also want to record a video as well. I only took pictures and audio, but a video could help understand non-verbal cues and the actual activity itself. I did record some observations following the interview in my field notes, though.
