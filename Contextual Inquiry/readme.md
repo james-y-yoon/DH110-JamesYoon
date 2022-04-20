@@ -43,10 +43,10 @@ I chose to observe a small group ensemble rehearsal on Saturday, April 16th at 5
 # Dataset
 
 - [The interview guide can be found here.](Field%20Research%20Script.pdf)
-- The audio recording of the interview can be found here.
+- [The audio recording of the interview can be found here.](Interview_and_Contextual_Inquiry.m4a)
 - [The transcript can be found here.](Script.pdf)
 - [The field notes from overt observation can be found here:](Ethnography-Field-Notes.pdf)
-- \[As supplemental data\] The audio recording of the observation can be found here. (Note: No script associated with it)
+- \[As supplemental data\] [The audio recording of the observation can be found here.](Observing_a_Rehearsal.m4a) (Note: No script associated with it)
 - Pictures from the interview and observation can be found below.
 
 ![Interview Picture](Interview_Picture.png)
@@ -55,4 +55,8 @@ I chose to observe a small group ensemble rehearsal on Saturday, April 16th at 5
 
 ## Initial Thoughts
 
-Overall, I thought the interview went well. The interview initially focused on keyboard and piano, just because he was the pianist (and Ultimate-Guitar actually does have Piano tabs, along with Guitar and Ukelele), 
+Overall, I thought the interview went well. The interview initially focused on keyboard and piano, just because he was the pianist (and Ultimate-Guitar actually does have Piano tabs, along with Guitar and Ukelele), but he did end up mentioning Ultimate-Guitar and his prior experience playing and learning guitar as the interview went on. I thought he made excellent points that I never thought about in regards to music theory, the ability to play with a backing track at certain speeds, lyrics and chords within sheet music, and the accessibility of classical music on IMSLP versus pop songs and rock songs potentially being hidden under a paywall. 
+
+Here are some quotes I found especially interesting.
+
+
