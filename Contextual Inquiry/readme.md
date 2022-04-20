@@ -47,6 +47,9 @@ I chose to observe a small group ensemble rehearsal on Saturday, April 16th at 5
 - [The transcript can be found here.](Script.pdf)
 - [The field notes from overt observation can be found here:](Ethnography-Field-Notes.pdf)
 - \[As supplemental data\] [The audio recording of the observation can be found here.](Observing_a_Rehearsal.m4a) (Note: No script associated with it)
+
+
+Note: All the recordings have been uploaded to [my SoundCloud](https://soundcloud.com/james-yoon-21/sets/dh-110-contextual-inquiry?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing). 
 - Pictures from the interview and observation can be found below.
 
 ![Interview Picture](Interview_Picture.png)
