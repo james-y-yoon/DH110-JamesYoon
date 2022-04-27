@@ -14,7 +14,17 @@ In my project, I will use design storytelling to ensure that my design takes int
 
 I developed two personas for my project: Richard Smith and Elizabeth Perez.
 
+### Richard Smith
 
+![Richard Smith's Demographics](Persona-1.png)
+
+![Richard Smith's Empathy Map](Empathy-Map-1.png)
+
+### Elizabeth Perez
+
+![Elizabeth Perez's Demographics](Persona-2.png)
+
+![Elizabeth Perez's Empathy Map](Empathy-Map-2.png)
 
 
 ## Proposed Tasks
@@ -36,6 +46,9 @@ My proposed design would have the functionality for users to:
 
 ### User's Journey
 
+![Richard Smith's Journey](Journey-1.png)
+
+
 
 ## Scenario #2: Elizabeth Perez and Getting Inspiration
 
@@ -49,3 +62,6 @@ My proposed design would have the functionality for users to:
 > Elizabeth is then able to navigate to the home page and finds a Recommendations module, where users can vote for certain songs/videos/tabs to be spotlighted. There are "up" and "down" arrows associated with each video, so users can upvote and downvote videos based on their quality. The tabs/videos/songs are separated so that she knows exactly what entry is what. She's able to find a video that she hasn't seen before, which makes her excited!
 
 ### User's Journey
+
+![Elizabeth Perez's Journey](Journey-2.png)
+
