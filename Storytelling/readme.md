@@ -41,9 +41,11 @@ My proposed design would have the functionality for users to:
 
 ### Scenario Context
 
+> Elizabeth Perez is a musician (albeit not a guitar player) and has just created a local band consisting of a bassist, a percussionist, and a keyboardist. As a result, she has to pick up guitar, although because of her years of musical training, she finds it relatively easy to learn chords and basic strumming. However, once her bandmates and she join for a songwriting session in her garage before their next concert, she realizes that she feels relatively constrained by the limited number of guitar techniques and genres she can play. She finds that she keeps reverting to the same guitar chord progressions as the songs she recently learned. Her goal is to diversify her guitar knowledge, both in the genres that she can play, typical chord progressions, and strumming techniques. That way, she can write more complex, interesting songs.
+
 ### Use Cases
+> After opening Ultimate-Guitar, Elizabeth notices that there is a Video Gallery option in the main menu. She clicks on that button and is redirected to a new window containing a playlist of curated videos uploaded by other users. Each video is associated with a specific skill level and genre (as "tags"), and she is able to filter through the videos to find videos for relatively beginner guitar players. She is able to scroll through the videos and comment by clicking on a speech bubble icon, which redirects her to a pop-up. The videos also have a description, where the author can go into what song they are playing and recommend similar songs. 
 
+> Elizabeth is then able to navigate to the home page and finds a Recommendations module, where users can vote for certain songs/videos/tabs to be spotlighted. There are "up" and "down" arrows associated with each video, so users can upvote and downvote videos based on their quality. The tabs/videos/songs are separated so that she knows exactly what entry is what.
 
-
-
-
+### User's Journey
