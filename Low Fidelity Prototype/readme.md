@@ -41,6 +41,12 @@ The tasks that I used for the wireflows were:
 
 [A video containing the wireflow can be found here.](https://youtu.be/E6BTbi1-4Wg) In this video, my interviewee traces through my original wireflow for all five tasks, noting when there is confusion. While they were talking out loud, I wrote notes for potential revisions below.
 
+All five tasks were traced through the video; however, to illustrate how my participant went through some of these tasks, I have attached some of the screenshots below.
+
+![Screenshot-1](ScreenShot-1.png)
+![Screenshot-2](ScreenShot-2.png)
+
+
 # Key Insights
 
 The participant was able to complete the tasks, although I did have to explain what a guitar tab and transposition was. Nevertheless, after those conceptual hurdles, they were able to perform the task (although they did mention certain difficulties, which I outline below). 
