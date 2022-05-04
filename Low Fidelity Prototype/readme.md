@@ -22,11 +22,11 @@ The tasks that I used for the wireflows were:
 
 # Initial Wireflow
 
-My first iteration of my wireflow (including wireframes) can be found here. The respectives pages of the PDF correspond to the tasks above (e.g. Task 1 is on Page 1). 
+My first iteration of my wireflow (including wireframes) can be found here. The respectives pages of the PDF correspond to the tasks above (i.e. Task 1 is on Page 1). 
 
 # Testing the Wireflow (version 1)
 
-[A video containing the wireflow can be found here.](https://youtu.be/E6BTbi1-4Wg). In this video, my interviewee traces through my original wireflow for all five tasks, noting when there is confusion. While they were talking out loud, I wrote notes for potential revisions below.
+[A video containing the wireflow can be found here.](https://youtu.be/E6BTbi1-4Wg) In this video, my interviewee traces through my original wireflow for all five tasks, noting when there is confusion. While they were talking out loud, I wrote notes for potential revisions below.
 
 # Key Insights
 
