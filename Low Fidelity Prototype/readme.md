@@ -33,48 +33,48 @@ The tasks that I used for the wireflows were:
 
 The participant was able to complete the tasks, although I did have to explain what a guitar tab and transposition was. Nevertheless, after those conceptual hurdles, they were able to perform the task (although they did mention certain difficulties, which I outline below). 
 
-1. They initially had issues trying to get from the homepage to the tabs page. This iwas due to having two ways to reach the guitar tabs page: the first being through the menu bar and the second through the search bar.
+- They initially had issues trying to get from the homepage to the tabs page. This iwas due to having two ways to reach the guitar tabs page: the first being through the menu bar and the second through the search bar.
 
 > They did get the hang of it later, and I do want to make sure users have enough flexibility to choose how to go to each page on the site (based on the flexibility heuristic). Therefore, I suspect that it may have been due to how I wrote and constructed the wireframe itself, so I don't propose any revisions for my final product.
 
 
-2. They did note that transposition/transpose may be too niche of a term to use.
+- They did note that transposition/transpose may be too niche of a term to use.
 
 > I want to make sure that both advanced and novice users can access this site, and the former are likely used to the term transpose (as well as most users with some music theory backgrounds). I initially had little question buttons on my wireframe next to the Transpose button; however, I did not include their flow (I implicitly wanted them to direct to a help page or a course detailing what transposing a piece means). I will adjust this by making the question button more conspicuous and adding it to my wireflow.
 
 
-3. There were some inconsistencies in my wireflow diagram (especially in regard to the searchbar on Home). Can the search bar be used to go to courses? How about forums/videos? No arrows were present in the second to fifth tasks that indicated whether or not this was possible, or if you could only search tabs.
+- There were some inconsistencies in my wireflow diagram (especially in regard to the searchbar on Home). Can the search bar be used to go to courses? How about forums/videos? No arrows were present in the second to fifth tasks that indicated whether or not this was possible, or if you could only search tabs.
 
 > This was largely my fault - I forgot to add these interactions in my original wireflow. I will be more clear as to what can be searched (tabs, courses, forums, videos) rather than the existing "Search for a tab, course, etc...". I will also add those interactions to my wireflows.
 
-4. They found that the "Other" and "More" descriptions under Level in the "Select-Level" wireframe were very vague.
+- They found that the "Other" and "More" descriptions under Level in the "Select-Level" wireframe were very vague.
 
 > I definitely agree! I think it's hard to tell what Other means (e.g. does it mean no difficulty level or some intermediary between the set three)? What does None mean? I plan to remove those two options and then also add a X button on those options so that they can select or unselect these options.
 
 
-5. They noted that the placement of comments and the ratings would influence whether or not they interact with a course.
+- They noted that the placement of comments and the ratings would influence whether or not they interact with a course.
 
 > This isn't something I thought about during my heuristic analysis or user research, but it's something I want to keep in mind. If the courses are sponsored by Ultimate-Guitar versus crowd-sourced, would I want to display the ratings the same way? Without ratings, how would I ensure that the courses are high-quality? And comments-wise: aside from potential spam, is it smart to have comments on the course home page ("Course-Ex"), the video itself ("Course-Vid"), or both? Would comments on the course home page potentially detract viewers while adding enough substantial information to be useful in the first place? I'm not sure if there is a "right" answer, but I want to revisit this in future Usability Testing.
 
-6. They assumed that "(2 of 5 videos)" in "Course-Vid" referred to Fingerboard (i.e. there were 5 videos in the Fingerboard section) rather than the module 1. 
+- They assumed that "(2 of 5 videos)" in "Course-Vid" referred to Fingerboard (i.e. there were 5 videos in the Fingerboard section) rather than the module 1. 
 
 > This is a small fix - I would just add "(2 of 5 videos in module)" to make this more clear
 
-7. Video Interactivity: they wanted to make sure that they were able to speed up/slow down/skip through the videos on Courses.
+- Video Interactivity: they wanted to make sure that they were able to speed up/slow down/skip through the videos on Courses.
 
 > This is important (and something that was addressed in my contextual inquiry). There should be controls on the videos that are similar to Youtube (or other video hosting platforms) that allows for greater flexibility.
 
 
-8. The guitar design on "Videos-Home" was confusing; they weren't sure what its purpose was.
+- The guitar design on "Videos-Home" was confusing; they weren't sure what its purpose was.
 
 > I totally agreed. Initially, I made it as more of a decorative slider (moving it left and right would reveal more videos. However, after this testing stage, I now think it's probably better to simplify it and remove it completely. I can revisit aesthetics in the high-fidelity prototype.
 
 
-9. They noted that not having lines between comments (in the wireframe "Video-Comments") made it difficult to distinguish between different comments and users. 
+- They noted that not having lines between comments (in the wireframe "Video-Comments") made it difficult to distinguish between different comments and users. 
 
 > I want to make it more clear between the end of one comment and the beginning of another. Perhaps lines or more spacing? Perhaps another signifier (e.g. put the person's name beneath their reply so that it's clear when their comment ends).
 
-10. There needs to be a search function on "Forum-Home", since users may want to search specific topics rather than just searching through specific subforums or the top posts. Furthermore, the "Forum-Reply" frame had a lot of redundant information (the "replying to: User" and "Your Response").
+- There needs to be a search function on "Forum-Home", since users may want to search specific topics rather than just searching through specific subforums or the top posts. Furthermore, the "Forum-Reply" frame had a lot of redundant information (the "replying to: User" and "Your Response").
 
 > I would want to simplify the Forum-Reply so that what's really important is the user's comment and their ideas. Perhaps one large textbox with minimal clutter would work better? I also want to add a search bar to Forum, perhaps as one magnifying glass button that expands into a full search bar once pressed?
 
