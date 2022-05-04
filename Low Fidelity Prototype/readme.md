@@ -22,7 +22,7 @@ The tasks that I used for the wireflows were:
 
 # Initial Wireflow
 
-My first iteration of my wireflow (including wireframes) can be found here. The respectives pages of the PDF correspond to the tasks above (i.e. Task 1 is on Page 1). 
+[My first iteration of my wireflow (including wireframes) can be found here.](Low-Fidelity-Prototype-1.pdf) The respectives pages of the PDF correspond to the tasks above (i.e. Task 1 is on Page 1). 
 
 # Testing the Wireflow (version 1)
 
