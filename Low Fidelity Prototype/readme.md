@@ -14,11 +14,11 @@ The personas I kept in mind when constructing this low-fidelity prototype were t
 
 The tasks that I used for the wireflows were:
 
-- TASK 1: Navigating a guitar tab and transposing it up one whole step.
-- TASK 2: Finding and interacting with a beginner guitar course.
-- TASK 3: Interacting with (and commenting on) a guitar video.
-- TASK 4: Replying to a forum thread.
-- TASK 5: Contributing your own guitar tab (more advanced - was not in my persona + usage scenarios)
+- **TASK 1**: Navigating a guitar tab and transposing it up one whole step.
+- **TASK 2**: Finding and interacting with a beginner guitar course.
+- **TASK 3**: Interacting with (and commenting on) a guitar video.
+- **TASK 4**: Replying to a forum thread.
+- **TASK 5**: Contributing your own guitar tab (more advanced - was not in my persona + usage scenarios)
 
 # Initial Wireflow
 
