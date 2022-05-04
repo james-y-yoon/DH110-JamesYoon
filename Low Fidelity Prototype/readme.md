@@ -81,7 +81,14 @@ The participant was able to complete the tasks, although I did have to explain w
 
 # Revised Wireflow (v.2)
 
-My second iteration of my wireflow (including wireframes) can be found here. The respectives pages of the PDF correspond to the tasks above. 
+[My second iteration of my wireflow (including wireframes) can be found here.](Low-Fidelity-Prototype-2.pdf) The respectives pages of the PDF correspond to the tasks above. 
+
+![LFP-2-1](LFP-1.jpg)
+![LFP-2-2](LFP-2.jpg)
+![LFP-2-3](LFP-3.jpg)
+![LFP-2-4](LFP-4.jpg)
+![LFP-2-5](LFP-5.jpg)
+
 
 ## Additional Changes to the Initial Wireflow
 
