@@ -25,9 +25,16 @@ The tasks that I used for the wireflows were:
 - **TASK 4**: Replying to a forum thread.
 - **TASK 5**: Contributing your own guitar tab (more advanced - was not in my persona + usage scenarios)
 
-# Initial Wireflow
+# Initial Wireflow (v.1)
 
 [My first iteration of my wireflow (including wireframes) can be found here.](Low-Fidelity-Prototype-1.pdf) The respectives pages of the PDF correspond to the tasks above (i.e. Task 1 is on Page 1). 
+
+![Original-LFP-1](Original-LFP-1.jpg)
+![Original-LFP-2](Original-LFP-2.jpg)
+![Original-LFP-3](Original-LFP-3.jpg)
+![Original-LFP-4](Original-LFP-4.jpg)
+![Original-LFP-5](Original-LFP-5.jpg)
+
 
 
 # Testing the Wireflow (version 1)
