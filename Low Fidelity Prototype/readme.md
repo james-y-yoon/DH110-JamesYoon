@@ -26,7 +26,7 @@ My first iteration of my wireflow (including wireframes) can be found here. The 
 
 # Testing the Wireflow (version 1)
 
-![A video containing the wireflow can be found here.](https://youtu.be/E6BTbi1-4Wg). In this video, my interviewee traces through my original wireflow for all five tasks, noting when there is confusion. While they were talking out loud, I wrote notes for potential revisions below.
+[A video containing the wireflow can be found here.](https://youtu.be/E6BTbi1-4Wg). In this video, my interviewee traces through my original wireflow for all five tasks, noting when there is confusion. While they were talking out loud, I wrote notes for potential revisions below.
 
 # Key Insights
 
