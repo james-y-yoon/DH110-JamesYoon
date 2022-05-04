@@ -10,7 +10,12 @@ This low-fidelity prototype illustrates the basic information architecture of th
 
 In my contextual inquiry, I learned that guitar players need some sense of music theory to learn the instrument. Some (like my interviewee) learned it from piano or previous musical training, but other people never learned music theory at all and need a structured way to develop those skills. I also learned that playing with a track is incredibly helpful in knowing when to play a chord relative to a specific lyric, that playing in groups (e.g. at church or in school) helps build community and motivate playing, and that musicians like to write in their sheet music regarding time signatures and tempos, which may be something I would want to have in my guitar tabs.
 
-The personas I kept in mind when constructing this low-fidelity prototype were the two personas from UX storytelling (Assignment 4): Richard Smith (a data scientist who just picked up guitar; little to no experience with musical instruments or theory) and Elizabeth Perez (an experienced pianist who just picked up guitar for her band; struggles with finding inspiration for new guitar techniques or chord progressions). [The personas can be found here.](https://james-y-yoon.github.io/DH110-JamesYoon/Storytelling/)
+The personas I kept in mind when constructing this low-fidelity prototype were the two personas from UX storytelling (Assignment 4): 
+
+- **Richard Smith**: a data scientist who just picked up guitar; little to no experience with musical instruments or theory.
+- **Elizabeth Perez**: an experienced pianist who just picked up guitar for her band; struggles with finding inspiration for new guitar techniques or chord progressions. 
+
+[The personas can be found here.](https://james-y-yoon.github.io/DH110-JamesYoon/Storytelling/)
 
 The tasks that I used for the wireflows were:
 
