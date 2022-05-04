@@ -24,7 +24,6 @@ The tasks that I used for the wireflows were:
 
 [My first iteration of my wireflow (including wireframes) can be found here.](Low-Fidelity-Prototype-1.pdf) The respectives pages of the PDF correspond to the tasks above (i.e. Task 1 is on Page 1). 
 
-![Wireflow v.1](Low-Fidelity-Prototype-1.pdf)
 
 # Testing the Wireflow (version 1)
 
