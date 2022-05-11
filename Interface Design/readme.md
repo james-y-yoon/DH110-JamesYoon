@@ -52,5 +52,31 @@ For the body fonts, Libre Franklin and Inter are very similar sans-serif fonts, 
 
 Koulen is all upper-case, which may impact readability. However, since it would only be used for headers, it wouldn't be as inaccessible as if it were used for body text.
 
-## 
+All four screens had the same text size: 32 (bold) for large headers, 24 (bold) for song titles, 15 for artist names, and 12 (italic) for album titles. These sizes were decided during the layout stage, since they fit well into the 9 row/1 column grid. The rationale for the slightly different sizes between the artist names and album covers was to help the user distinguish between the two. Album titles were italicized based on standard style formats.
+
+## Shape Variations
+
+This test mainly revolved around adjusting the rounded/boxy shapes in the layout. Three test screens were created in the second row: *homepage-rounded*, *homepage-boxed*, and *homepage-hybrid*. The parameters for each screen are below:
+
+| Screen      | Roundedness Parameter | Rationale | 
+| ----------- | ----------- | -----------------|
+| homepage-rounded      | 50      | Seems more approachable, "friendly" |
+| homepage-boxed   | 1        | More formal, academic |
+| homepage-hybrid   | 30 on top left and bottom right, 0 elsewhere        | More unique shape |
+
+## Color Scheme
+
+This test involved creating two color schemes for the homepage: a dark mode (*homepage-logo-colors*) and a light mode (*homepage-light*). An alternative dark mode screen (*homepage-logo-similar*) was created with a gray menubar rather than a yellow one.
+
+A summary of the colors is below:
+
+| Screen      | Menu Bar | Background | Module Shapes | Accent Color/Buttons | Text |
+| ----------- | ----------- | -----------------| -----------------| -----------------| -----------------|
+| homepage-logo-colors/similar      | A67D03 (dark yellow) for logo-colors, 686763 (grey) for logo-similar | 261D01 (dark brown) | 594302 (yellow-brown) | Same as background and menu bar colors | FBFBFB (white) |
+| homepage-light   | 87AAAA (light sea blue) | F2F2F2 (light yellow) | F9EBC8 (slightly darker yellow) | Same as background and menu bar colors | 000000 (black) |
+
+I obtained the colors for dark mode by putting the Ultimate-Guitar logo (black-yellow) into Adobe Color. For light mode, I tried to keep some of the characteristics of the current website (mainly the use of yellow) while adding accents with an another color that was pleasing to the eye (blue-ish). Text colors were kept white or black to ensure the highest contrast with the surrounding dark or light backgrounds.
+
+### Color Accessibility 
+
 
