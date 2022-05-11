@@ -79,4 +79,48 @@ I obtained the colors for dark mode by putting the Ultimate-Guitar logo (black-y
 
 ### Color Accessibility 
 
+Screenshots of Adobe Color's accessibility tool can be found below.
 
+
+# Impression Test
+
+An impression test was conducted with the interface designs above. I asked my participant for their insight regarding the typography, shape, and color variations. [A recording of the impression test can be found here (on Soundcloud).](https://soundcloud.com/james-yoon-21/digital-humanities-110-impression-test?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+## Insights
+
+### FOR TYPOGRAPHY
+> "Not the biggest fan of [serif font] - it doesn't give me the impression that it's a fun app"
+> "There is a clear differentiation between the name of the album, the name of the artist, and the song itself."
+> "I would've liked to see some sort of separation between the songs (e.g. half-opaque line)"
+> Liked the second font (Koulen) much better than the serif fonts (both Crimson Pro and Prociono).
+> Liked the fourth font (Oswald) for the name of songs; wanted it to be smaller.
+
+Overall, my participant liked the sans-serif fonts a lot better than the serifs based on the tone that they portrayed. It didn't seem like serif fonts conveyed an engaging tone, which is integral to attracting and maintaining an audience. They also preferred Koulen over Oswald.
+
+### FOR SHAPES
+> "I like the rounded edges. They read very Google...It's more user-friendly."
+> "I wonder how it would look with completely rounded edges on everything except the song \[album cover\]"
+> "\[Screen with boxy corners\] is not very approachable."
+> "Doesn't seem like there's a cohesive brand there" (when talking about the hybrid screen).
+
+My participant valued consistency in the shapes, hence why they gravitated toward the all-rounded corners rather than the hybrid shapes. They also valued consistency across different apps (e.g. Google), which is why they liked the rounded, more "approachable" boxes over the boxy ones.
+
+### FOR COLOR SCHEMES
+> "I'm not loving the colors...It's the combination of the yellow and black"
+> "Album images aren't compatible with \[yellow and black\]"
+> "\[The light one\] reads like a notepad."
+> Wanted light green/blue instead of yellow.
+
+Overall, they didn't love either the light or dark mode. I can definitely see their point: the dark mode does seem a bit outdated in terms of aesthetics, and the light mode is reminiscent of Apple's notepad. I do want to keep a balance, though, between past Ultimate-Guitar designs and more modern ones - that might be really important in making the new design seem familiar to older users, many of which may have been part of the community for years. I think this particular aspect of the design is the hardest one to perfect, since there's this tension between what was done before (Ultimate-Guitar's established gbrand) and what could be done to modernize it.
+
+# Final Design
+
+Upon receiving feedback from the impression test, I decided on the following:
+
+- **FONTS**: Koulen for headings, Libre Franklin for body/subheadings (although Inter is very similar) - this was in response to my participant's statements about overall tone and branding.
+- **SHAPES**: Rounded corners all around - that way, we can keep some consistency within the boxes themselves, as well as between this app and other apps like Google.
+- **COLORS**: I think this particular one is still subject to change. I think I'm going to stick with the homepage-logo-colors as the dark mode. I made some changes to the light mode (originally, it had a grey menu bar instead of a blue one) to adopt my interviewee's feedback. 
+
+# Lessons Learned
+
+Overall, doing these interface variations and conducting the impression test was an unique experience. When I was playing around with the designs, none of them felt right - there was always something that felt off about each of those designs, regardless of what font, shapes, or colors I used. I'm not too sure why this is; maybe it's based on my preconceived notions about how design should look based on Google/Facebook/other apps I've used in the past. I also want to keep in mind Ultimate-Guitar's current design: it's crowded and hard to use but has a sort of avant-garde character. Balancing that with other usability considerations made the color scheme incredibly difficult to decide on, and I think it's definitely still up for debate.
