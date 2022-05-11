@@ -88,7 +88,10 @@ I obtained the colors for dark mode by putting the Ultimate-Guitar logo (black-y
 
 ### Color Accessibility 
 
-Screenshots of Adobe Color's accessibility tool can be found below.
+Screenshots of Adobe Color's accessibility tool can be found below. Both the light and dark mode screens passed.
+
+![Light Mode](Light-Mode-Contrast.png)
+![Dark Mode](Dark-Mode-Contrast.png)
 
 
 # Impression Test
