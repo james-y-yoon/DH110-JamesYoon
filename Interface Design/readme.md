@@ -90,25 +90,36 @@ An impression test was conducted with the interface designs above. I asked my pa
 
 ### FOR TYPOGRAPHY
 > "Not the biggest fan of [serif font] - it doesn't give me the impression that it's a fun app"
+
 > "There is a clear differentiation between the name of the album, the name of the artist, and the song itself."
+
 > "I would've liked to see some sort of separation between the songs (e.g. half-opaque line)"
+
 > Liked the second font (Koulen) much better than the serif fonts (both Crimson Pro and Prociono).
+
 > Liked the fourth font (Oswald) for the name of songs; wanted it to be smaller.
+
 
 Overall, my participant liked the sans-serif fonts a lot better than the serifs based on the tone that they portrayed. It didn't seem like serif fonts conveyed an engaging tone, which is integral to attracting and maintaining an audience. They also preferred Koulen over Oswald.
 
 ### FOR SHAPES
 > "I like the rounded edges. They read very Google...It's more user-friendly."
+
 > "I wonder how it would look with completely rounded edges on everything except the song \[album cover\]"
+
 > "\[Screen with boxy corners\] is not very approachable."
+
 > "Doesn't seem like there's a cohesive brand there" (when talking about the hybrid screen).
 
 My participant valued consistency in the shapes, hence why they gravitated toward the all-rounded corners rather than the hybrid shapes. They also valued consistency across different apps (e.g. Google), which is why they liked the rounded, more "approachable" boxes over the boxy ones.
 
 ### FOR COLOR SCHEMES
 > "I'm not loving the colors...It's the combination of the yellow and black"
+
 > "Album images aren't compatible with \[yellow and black\]"
+
 > "\[The light one\] reads like a notepad."
+
 > Wanted light green/blue instead of yellow.
 
 Overall, they didn't love either the light or dark mode. I can definitely see their point: the dark mode does seem a bit outdated in terms of aesthetics, and the light mode is reminiscent of Apple's notepad. I do want to keep a balance, though, between past Ultimate-Guitar designs and more modern ones - that might be really important in making the new design seem familiar to older users, many of which may have been part of the community for years. I think this particular aspect of the design is the hardest one to perfect, since there's this tension between what was done before (Ultimate-Guitar's established gbrand) and what could be done to modernize it.
