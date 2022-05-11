@@ -146,7 +146,7 @@ Upon receiving feedback from the impression test, I decided on the following:
 
 [A Figma link to my "final" interface design (only light mode) is found here.](https://www.figma.com/file/yUsEoH8TuOMggfTpZ1Buwf/Ultimate-Guitar-A06?node-id=0%3A1)
 
-![Homepage_Final](Home_Final.png)
+![Homepage_Final](Homepage_Final.png)
 ![Wireflow Final](Wireflow_Final.png)
 
 # Lessons Learned
