@@ -44,7 +44,7 @@ For the rest of the interface tests, I created duplicates of the homepage. [All 
 
 The first row of four screens consisted of homepage-prociono-libre-franklin; homepage-koulen-libre-franklin; homepage-crimson-pro-inter; and homepage-oswald-prociono. Each screen was named according to *homepage-headingtextfont-subheading/bodytextfont*. As thus, the fonts are summarized below.
 
-![Typography](Typography (1).png)
+![Typography](Typography.png)
 
 | Screen      | Heading Font | Subheading/Body Font | 
 | ----------- | ----------- | -----------------|
@@ -69,7 +69,7 @@ This test mainly revolved around adjusting the rounded/boxy shapes in the layout
 | homepage-boxed   | 1        | More formal, academic |
 | homepage-hybrid   | 30 on top left and bottom right, 0 elsewhere        | More unique shape |
 
-![Shapes](Shapes (1).png)
+![Shapes](Shapes.png)
 
 ## Color Scheme
 
@@ -82,7 +82,7 @@ A summary of the colors is below:
 | homepage-logo-colors/similar      | A67D03 (dark yellow) for logo-colors, 686763 (grey) for logo-similar | 261D01 (dark brown) | 594302 (yellow-brown) | Same as background and menu bar colors | FBFBFB (white) |
 | homepage-light   | 87AAAA (light sea blue) | F2F2F2 (light yellow) | F9EBC8 (slightly darker yellow) | Same as background and menu bar colors | 000000 (black) |
 
-![Colors](Colors (1).png)
+![Colors](Colors.png)
 
 I obtained the colors for dark mode by putting the Ultimate-Guitar logo (black-yellow) into Adobe Color. For light mode, I tried to keep some of the characteristics of the current website (mainly the use of yellow) while adding accents with an another color that was pleasing to the eye (blue-ish). Text colors were kept white or black to ensure the highest contrast with the surrounding dark or light backgrounds.
 
