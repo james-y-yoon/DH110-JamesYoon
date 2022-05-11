@@ -142,7 +142,12 @@ Upon receiving feedback from the impression test, I decided on the following:
 
 - **FONTS**: Koulen for headings, Libre Franklin for body/subheadings (although Inter is very similar) - this was in response to my participant's statements about overall tone and branding.
 - **SHAPES**: Rounded corners all around - that way, we can keep some consistency within the boxes themselves, as well as between this app and other apps like Google.
-- **COLORS**: I think this particular one is still subject to change. I think I'm going to stick with the homepage-logo-colors as the dark mode. I made some changes to the light mode (originally, it had a grey menu bar instead of a blue one) to adopt my interviewee's feedback. 
+- **COLORS**: I think this particular one is still subject to change. I think I'm going to stick with the homepage-logo-colors as the dark mode. I made some changes to the light mode (originally, it had a grey menu bar instead of a blue one) to adopt my interviewee's feedback and made the design slightly more pink + blue rather than yellow.
+
+[A Figma link to my "final" interface design is found here.](https://www.figma.com/file/yUsEoH8TuOMggfTpZ1Buwf/Ultimate-Guitar-A06?node-id=0%3A1)
+
+![Homepage_Final](Home_Final.png)
+![Wireflow Final](Wireflow_Final.png)
 
 # Lessons Learned
 
