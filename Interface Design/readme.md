@@ -20,6 +20,7 @@ This assignment consisted of four steps:
 
 [My digitized wireflow can be found here under "Wireflow".](https://www.figma.com/file/yUsEoH8TuOMggfTpZ1Buwf/Ultimate-Guitar-A06?node-id=107%3A96)
 
+![Wireflow](Wireflow.png)
 Given the size of the wireflow, all subsequent interface tests were done with the home page (labeled "homepage") on Figma.
 
 # Interface Tests
@@ -27,6 +28,8 @@ Given the size of the wireflow, all subsequent interface tests were done with th
 ## Layout
 
 During the digitization process, I focused on the layout of the screens. Using the homepage as the case study, I created a grid pattern consisting of 9 rows and 1 column. 9 rows seemed appropriate, since it allowed enough room and spacing for modules or links to guitar tabs without overloading the user with too much information. Given that I created this prototype on a mobile frame, I chose 1 column to minimize clutter.
+
+![Grid](Layout.png)
 
 The grid parameters are below:
 
@@ -40,6 +43,8 @@ My reasoning behind choosing 20 pts as my margin was for consistency with the gu
 For the rest of the interface tests, I created duplicates of the homepage. [All of these wireframes can be found on Figma here.](https://www.figma.com/file/yUsEoH8TuOMggfTpZ1Buwf/Ultimate-Guitar-A06?node-id=104%3A96)
 
 The first row of four screens consisted of homepage-prociono-libre-franklin; homepage-koulen-libre-franklin; homepage-crimson-pro-inter; and homepage-oswald-prociono. Each screen was named according to *homepage-headingtextfont-subheading/bodytextfont*. As thus, the fonts are summarized below.
+
+![Typography](Typography (1).png)
 
 | Screen      | Heading Font | Subheading/Body Font | 
 | ----------- | ----------- | -----------------|
@@ -56,13 +61,15 @@ All four screens had the same text size: 32 (bold) for large headers, 24 (bold) 
 
 ## Shape Variations
 
-This test mainly revolved around adjusting the rounded/boxy shapes in the layout. Three test screens were created in the second row: *homepage-rounded*, *homepage-boxed*, and *homepage-hybrid*. The parameters for each screen are below:
+This test mainly revolved around adjusting the rounded/boxy shapes in the layout. Three test screens were created in the second row: *homepage-rounded, homepage-boxed, and homepage-hybrid*. The parameters for each screen are below:
 
 | Screen      | Roundedness Parameter | Rationale | 
 | ----------- | ----------- | -----------------|
 | homepage-rounded      | 50      | Seems more approachable, "friendly" |
 | homepage-boxed   | 1        | More formal, academic |
 | homepage-hybrid   | 30 on top left and bottom right, 0 elsewhere        | More unique shape |
+
+![Shapes](Shapes (1).png)
 
 ## Color Scheme
 
@@ -74,6 +81,8 @@ A summary of the colors is below:
 | ----------- | ----------- | -----------------| -----------------| -----------------| -----------------|
 | homepage-logo-colors/similar      | A67D03 (dark yellow) for logo-colors, 686763 (grey) for logo-similar | 261D01 (dark brown) | 594302 (yellow-brown) | Same as background and menu bar colors | FBFBFB (white) |
 | homepage-light   | 87AAAA (light sea blue) | F2F2F2 (light yellow) | F9EBC8 (slightly darker yellow) | Same as background and menu bar colors | 000000 (black) |
+
+![Colors](Colors (1).png)
 
 I obtained the colors for dark mode by putting the Ultimate-Guitar logo (black-yellow) into Adobe Color. For light mode, I tried to keep some of the characteristics of the current website (mainly the use of yellow) while adding accents with an another color that was pleasing to the eye (blue-ish). Text colors were kept white or black to ensure the highest contrast with the surrounding dark or light backgrounds.
 
@@ -89,7 +98,7 @@ An impression test was conducted with the interface designs above. I asked my pa
 ## Insights
 
 ### FOR TYPOGRAPHY
-> "Not the biggest fan of [serif font] - it doesn't give me the impression that it's a fun app"
+> "Not the biggest fan of \[serif font\] - it doesn't give me the impression that it's a fun app"
 
 > "There is a clear differentiation between the name of the album, the name of the artist, and the song itself."
 
