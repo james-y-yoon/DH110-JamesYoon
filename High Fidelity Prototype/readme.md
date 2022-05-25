@@ -33,6 +33,7 @@ The complete wireflow of my prototype can be found below. [A version of the wire
 
 [The Figma file for the prototype can be found here.](https://www.figma.com/file/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=333%3A1441)
 
+<br>
 
 # Testing the Prototype
 
@@ -41,6 +42,8 @@ Prior to creating the final prototype (version 3.0) as shown above), the prototy
 ## Cognitive Walkthrough
 
 A cognitive walkthrough was conducted with two other classmates during Week 8. The walkthrough took 15 minutes (from approximately 4:30 to 4:45 PM). During the walkthrough, the two classmates gave their overall impressions of the prototype and completed three tasks according to my personas: visiting and commenting on a guitar course, accessing a guitar tab, and navigating through the community videos/forums. [The initial prototype used for the cognitive walkthrough can be found here](https://www.figma.com/proto/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=201%3A204&scaling=contain&page-id=201%3A203&starting-point-node-id=201%3A204); this was my first iteration after interface design on the homepage. [The complete comments from my classmates can be accessed here](https://docs.google.com/document/d/1h0lXeB5dxPP1mZsDMxuq8wOFXPu83NUWpwksPKupgX8/edit?usp=sharing).
+
+![Cognitive-Walkthrough-Peers](cognitive-walkthrough-peer-feedback.png)
 
 ### Summary of Cognitive Walkthrough
 
@@ -59,6 +62,8 @@ I decided to add a way to like the video and follow the uploaders on my final pr
 > One said it would be nice to have checkmarks after someone finishes a video in the course.
 
 I thought it was a great idea! I was hesitant to add this interactivity on the prototype as there was no way to actually play videos (and thus finish a video) on Figma.
+
+<br>
 
 # Usability Testing
 
