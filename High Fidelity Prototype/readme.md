@@ -22,3 +22,4 @@ Based on my contextual inquiry and personas/usage scenarios, my prototype suppor
 
 The complete wireflow of my prototype can be found below. [A version of the wireflow on Figma can be accessed here.](https://www.figma.com/file/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=201%3A203)
 
+![High-Fidelity Wireflow](wireflow-prototype.png)
