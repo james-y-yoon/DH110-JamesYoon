@@ -143,7 +143,7 @@ This is something important to note, since that was their first instinct. Howeve
 
 This agreed with some of my heuristic analysis! Chordify is much cleaner and emphasizes the ability for users to play with the song itself -- it's a lot more interactive than Ultimate-Guitar. 
 
-Thus, for version 3.0, I added small changes overall, such as adjusting spacing and adding the popular Courses button to the homepage. For annotation, I added a dropdown on the help menu to show users how they would add notes to their tabs.
+Thus, for version 3.0, I added small changes overall, such as adjusting spacing and adding the popular Courses button to the homepage. For annotation, I added a dropdown on the help menu to show users how they would add notes to their tabs. I also adjusted the video comments overlay's fill color to be transparent, since I noticed a white background that was not intended during the usability tests. Version 3.0 is the final prototype providd at the top of this assignment.
 
 # Summary of Usability Testing
 
