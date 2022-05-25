@@ -123,7 +123,7 @@ My third and fourth usability tests were with people from my target audience (mi
 - Gender identity: all identified as men
 - English was primary language for all four
 - All paticipants were able to complete all tasks except annotate tab (only 1/4 could do annotation)
-- System Usability Scale (SUS) Score: 77.08
+- **System Usability Scale (SUS) Score**: 77.08
 
 **Production Satisfaction Card Summary** ([an interactive version can be found here](https://voyant-tools.org/?corpus=f48f6a5014378a384bf34832a6b46663&view=Cirrus)): 
 
