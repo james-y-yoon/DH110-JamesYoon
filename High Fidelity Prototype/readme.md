@@ -117,6 +117,11 @@ I wasn't too sure how to address this. I was thinking of changing the interactiv
 
 My third and fourth usability tests were with people from my target audience (middle-aged men who play or are interested in playing guitar). My first two usability tests fulfilled two of the three criteria (identified as men and were proficient guitar players and musicians), so I wanted to ensure that these changes I made were also appropriate to older guitar players as well.
 
+Here are the links to the third and fourth usability test recordings.
+
+### Summary of Insights
+
+
 
 # Summary of Usability Testing
 
