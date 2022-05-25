@@ -6,7 +6,7 @@ Digital Humanities 110 - *User Experience and Design* (S'22)
 
 # What is a High-Fidelity Prototype?
 
-A high-fidelity prototype takes the static layouts and interfaces from the low-fidelity prototype into an interactive prototype that one can interact with. My project involved redesigning Ultimate-Guitar.com so that it was more user-friendly and more accessible for both beginner and advanced guitar players, particularly for my target audience of middle-aged male guitar learners. Following the low-fidelity prototype and interface design process, I added interactivity on Figma and went through multiple interations of my prototype after conducting 4 usability tests and a cognitive walkthrough.
+A high-fidelity prototype takes the static layouts and interfaces from the low-fidelity prototype into an interactive prototype that one can interact with. My project involved redesigning Ultimate-Guitar.com so that it was more user-friendly and more accessible for both beginner and advanced guitar players, particularly for my target audience of middle-aged male guitar learners. Following the low-fidelity prototype and interface design process, I added interactivity on Figma. I also went through multiple interations of my prototype after conducting 4 usability tests and a cognitive walkthrough.
 
 # Prototype Tasks
 
@@ -66,7 +66,7 @@ The biggest changes from the version used in the cognitive walkthrough was based
 
 The following usability tests were conducted over Zoom. [A link to the form can be found here](https://forms.gle/4RWmx9nbzaWm57Gz7). Some tasks were altered from the initial pilot usability test (conducted on the Ultimate-Guitar website itself), namely that different course and tab names were used (my prototype only has generic course names and *Pagan Poetry*), and the transposition interactivity is not as fleshed out as the current website.
 
-## First Usability Test
+## First Usability Test (5/23/2022)
 
 The video for the usability test can be found here. My participant was a advanced guitar player and a college student who uses Ultimate-Guitar mainly for tabs about 2-3 times a month. [A link to his usability test recording is here.](https://youtu.be/v9UDloIeYR4)
 
@@ -90,7 +90,7 @@ I decided to minimize the spacing between lines on the tab itself. It also helpe
 
 This was adopted on the next version. In its place, I added the date and time that the original post was created.
 
-## Second Usability Test
+## Second Usability Test (5/23/2022)
 
 The first usability test cumulated in version 2.0, [which can be accessed here](https://www.figma.com/proto/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=331%3A791&scaling=scale-down&page-id=331%3A790&starting-point-node-id=331%3A791). 
 
@@ -111,7 +111,7 @@ I wasn't too sure how to address this. I was thinking of changing the interactiv
 - Since Ultimate-Guitar does not have functionality, adding this functionality may be new to returning users.
 - Although this annotation functionality is rooted in my contextual inquiry, it is possible that guitar players in particular do not feel like writing notes on their tabs is necessary. I would want to do more research to see how guitar players interact with these tabs and whether there are differences between classical musicians in an ensemble and printed sheet music and guitar players with virtual tabs.
 
-## Third and Fourth Usability Tests
+## Third and Fourth Usability Tests (5/25/2022)
 
 My third and fourth usability tests were with people from my target audience (middle-aged men who play or are interested in playing guitar). My first two usability tests fulfilled two of the three criteria (identified as men and were proficient guitar players and musicians), so I wanted to ensure that these changes I made were also appropriate to older guitar players as well.
 
