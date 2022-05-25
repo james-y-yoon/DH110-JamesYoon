@@ -31,9 +31,12 @@ The complete wireflow of my prototype can be found below. [A version of the wire
 
 [The high-fidelity prototype for my Ultimate-Guitar redesign can be found here.](https://www.figma.com/proto/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=333%3A1442&scaling=scale-down&page-id=333%3A1441&starting-point-node-id=333%3A1442)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FseDni8nNltXHUxyWOMq300%2FUltimate-Guitar-A07%3Fnode-id%3D333%253A1442%26scaling%3Dscale-down%26page-id%3D333%253A1441%26starting-point-node-id%3D333%253A1442" allowfullscreen></iframe>
+
 [The Figma file for the prototype can be found here.](https://www.figma.com/file/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=333%3A1441)
 
 <br>
+<hr>
 
 # Testing the Prototype
 
@@ -64,6 +67,7 @@ I decided to add a way to like the video and follow the uploaders on my final pr
 I thought it was a great idea! I was hesitant to add this interactivity on the prototype as there was no way to actually play videos (and thus finish a video) on Figma.
 
 <br>
+<hr>
 
 # Usability Testing
 
