@@ -116,4 +116,17 @@ I wasn't too sure how to address this. I was thinking of changing the interactiv
 My third and fourth usability tests were with people from my target audience (middle-aged men who play or are interested in playing guitar). My first two usability tests fulfilled two of the three criteria (identified as men and were proficient guitar players and musicians), so I wanted to ensure that these changes I made were also appropriate to older guitar players as well.
 
 
+# Summary of Usability Testing
 
+- **Sample Size**: n = 4
+- Ages ranged from 20 to 56 (avg. 39)
+- Gender identity: all identified as men
+- English was primary language for all four
+- All paticipants were able to complete all tasks except annotate tab (only 1/4 could do latter)
+- System Usability Scale (SUS) Score: 77.08
+
+> How easy for difficult to use does this prototype look (from Pre-Test Questionnaire)?
+
+Average: 1.75/5 (with 1 being easiest)
+
+**Production Satisfaction Card Summary** ([an interactive version can be found here](https://voyant-tools.org/?corpus=f48f6a5014378a384bf34832a6b46663&view=Cirrus)): 
