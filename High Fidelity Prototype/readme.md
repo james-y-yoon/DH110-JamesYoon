@@ -1,4 +1,4 @@
-# Assignment 7: High-Fidelity Prototype
+# Assignment 07: High-Fidelity Prototype
 
 James Yoon
 
@@ -38,7 +38,7 @@ Prior to creating the final prototype (version 3.0) as shown above), the prototy
 
 ## Cognitive Walkthrough
 
-A cognitive walkthrough was conducted with two other classmates during Week 8. The walkthrough took 15 minutes (from approximately 4:30 to 4:45 PM). During the walkthrough, the two classmates gave their overall impressions of the prototype and completed three tasks according to my personas: visiting and commenting on a guitar course, accessing a guitar tab, and navigating through the community videos/forums. [The initial prototype used for the cognitive walkthrough can be found here](https://www.figma.com/proto/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=201%3A204&scaling=contain&page-id=201%3A203&starting-point-node-id=201%3A204); this was my first iteration after interface design on the homepage. [The complete comments from my classmates can be accessed here.](https://docs.google.com/document/d/1h0lXeB5dxPP1mZsDMxuq8wOFXPu83NUWpwksPKupgX8/edit?usp=sharing).
+A cognitive walkthrough was conducted with two other classmates during Week 8. The walkthrough took 15 minutes (from approximately 4:30 to 4:45 PM). During the walkthrough, the two classmates gave their overall impressions of the prototype and completed three tasks according to my personas: visiting and commenting on a guitar course, accessing a guitar tab, and navigating through the community videos/forums. [The initial prototype used for the cognitive walkthrough can be found here](https://www.figma.com/proto/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=201%3A204&scaling=contain&page-id=201%3A203&starting-point-node-id=201%3A204); this was my first iteration after interface design on the homepage. [The complete comments from my classmates can be accessed here](https://docs.google.com/document/d/1h0lXeB5dxPP1mZsDMxuq8wOFXPu83NUWpwksPKupgX8/edit?usp=sharing).
 
 ### Summary of Cognitive Walkthrough
 
@@ -60,11 +60,11 @@ I thought it was a great idea! I was hesitant to add this interactivity on the p
 
 # Usability Testing
 
-After usability testing, I created version 1.0 of my prototype, [which can be accessed here.](https://www.figma.com/proto/2bDBQXIf77SMKvtWaLMbE2/Ultimate-Guitar-A07-(Archived-Versions)?node-id=321%3A851&scaling=scale-down&page-id=0%3A1&starting-point-node-id=321%3A1434). 
+After usability testing, I created version 1.0 of my prototype, [which can be accessed here](https://www.figma.com/proto/2bDBQXIf77SMKvtWaLMbE2/Ultimate-Guitar-A07-(Archived-Versions)?node-id=321%3A851&scaling=scale-down&page-id=0%3A1&starting-point-node-id=321%3A1434). 
 
 The biggest changes from the version used in the cognitive walkthrough was based on the self-checklist, namely that there should be a minimal number of hues (any blues were replaced with green), that the spacing between elements should be consistent across all frames, and that the relative formatting between frames should be consistent as well. To achieve the latter, I added search bars to the tab page, the courses page, and the videos page. I also made sure the titles on these pages were centered rather than left-aligned.
 
-The following usability tests were conducted over Zoom. [A link to the form can be found here.](https://forms.gle/4RWmx9nbzaWm57Gz7). Some tasks were altered from the initial pilot usability test (conducted on the Ultimate-Guitar website itself), namely that different course and tab names were used (my prototype only has generic course names and *Pagan Poetry*), and the transposition interactivity is not as fleshed out as the current website.
+The following usability tests were conducted over Zoom. [A link to the form can be found here](https://forms.gle/4RWmx9nbzaWm57Gz7). Some tasks were altered from the initial pilot usability test (conducted on the Ultimate-Guitar website itself), namely that different course and tab names were used (my prototype only has generic course names and *Pagan Poetry*), and the transposition interactivity is not as fleshed out as the current website.
 
 ## First Usability Test
 
@@ -92,9 +92,9 @@ This was adopted on the next version. In its place, I added the date and time th
 
 ## Second Usability Test
 
-The first usability test cumulated in version 2.0, [which can be accessed here.](https://www.figma.com/proto/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=331%3A791&scaling=scale-down&page-id=331%3A790&starting-point-node-id=331%3A791). 
+The first usability test cumulated in version 2.0, [which can be accessed here](https://www.figma.com/proto/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=331%3A791&scaling=scale-down&page-id=331%3A790&starting-point-node-id=331%3A791). 
 
-My second usability test was conducted with an older college student who plays at local shows as a guitar player + singer. For context, he uses Ultimate-Guitar around 2-3 times per month (like my first participant) mainly for chords and tabs. [A link to the usability test recording can be found here.](https://youtu.be/RlnALGnNy9A).
+My second usability test was conducted with an older college student who plays at local shows as a guitar player + singer. For context, he uses Ultimate-Guitar around 2-3 times per month (like my first participant) mainly for chords and tabs. [A link to the usability test recording can be found here](https://youtu.be/RlnALGnNy9A).
 
 ### Summary of Insights
 
