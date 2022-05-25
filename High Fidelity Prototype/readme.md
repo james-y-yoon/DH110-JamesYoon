@@ -4,6 +4,8 @@ James Yoon
 
 Digital Humanities 110 - *User Experience and Design* (S'22)
 
+<hr> 
+
 # What is a High-Fidelity Prototype?
 
 A high-fidelity prototype takes the static layouts and interfaces from the low-fidelity prototype into an interactive prototype that one can interact with. 
@@ -23,7 +25,6 @@ Based on my contextual inquiry and personas/usage scenarios, my prototype suppor
 - Searching through the Ultimate-Guitar forums and replying to a forum thread
 - Adding a tab (not a main task as indicated in the Usability Testing or the personas; added for completeness)
 
-<br>
 <hr>
 
 # Wireflow
@@ -32,7 +33,6 @@ The complete wireflow of my prototype can be found below. [A version of the wire
 
 ![High-Fidelity Wireflow](wireflow-prototype.png)
 
-<br>
 <hr>
 
 # Final Version (3.0) of the High-Fidelity Prototype
