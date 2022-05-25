@@ -10,6 +10,9 @@ A high-fidelity prototype takes the static layouts and interfaces from the low-f
 
 My project involved redesigning Ultimate-Guitar.com so that it was more user-friendly and more accessible for both beginner and advanced guitar players, particularly for my target audience of middle-aged male guitar learners. Following the low-fidelity prototype and interface design process, I added interactivity on Figma. I also went through multiple interations of my prototype after conducting 4 usability tests and a cognitive walkthrough.
 
+<br>
+<hr>
+
 # Prototype Tasks
 
 Based on my contextual inquiry and personas/usage scenarios, my prototype supports the following tasks:
@@ -19,6 +22,9 @@ Based on my contextual inquiry and personas/usage scenarios, my prototype suppor
 - Searching through and liking/commenting on community-uploaded videos
 - Searching through the Ultimate-Guitar forums and replying to a forum thread
 - Adding a tab (not a main task as indicated in the Usability Testing or the personas; added for completeness)
+
+<br>
+<hr>
 
 # Wireflow
 
