@@ -117,11 +117,33 @@ I wasn't too sure how to address this. I was thinking of changing the interactiv
 
 My third and fourth usability tests were with people from my target audience (middle-aged men who play or are interested in playing guitar). My first two usability tests fulfilled two of the three criteria (identified as men and were proficient guitar players and musicians), so I wanted to ensure that these changes I made were also appropriate to older guitar players as well.
 
-Here are the links to the third and fourth usability test recordings.
+Here are the links to the [third](https://youtu.be/2-GWUjFKUD4) and [fourth usability test](https://youtu.be/uv3SSEUuTYw) recordings.
 
 ### Summary of Insights
 
+These two usability tests had very similar insights, and overall, they shared many of the same insights as the second usability test. It appears that the changes made to Version 2.0 were overall helpful, even to an older audience.
 
+> Both had issues with annotation, similar to Usability Test #2.
+
+This is still something to research for future iterations, since I am not too sure whether they don't annotate because previous services don't have that feature or if guitar players don't annotate/mark up their tabs in general. Participant #4 did mention that part of the difficulty may be because Figma prototypes were navigated on keyboard + mouse rather than a touchscreen, and it may be more intuitive to drag over text (similar to highlighting a book) if this prototype was actually on a touchscreen device.
+
+> Participant #4 mentioned that they would first look for a scrollbar when navigating a page.
+
+This is because the prototype does not have full layout (e.g. it is likely that the final app would have more modules/features that allow users to keep scrolling down). 
+
+> Participant #4 remarked that personally, they would probably not have the time to take a full guitar course on Ultimate-Guitar. Instead, they would choose to read tabs instead.
+
+This is another thing to potentially research in the future. Do middle-aged men have less time to take full online courses? Is this different from college-aged students or young adults? How might this vary with career?
+
+> Participant #3 tried to access videos and forums through the homepage.
+
+This is something important to note, since that was their first instinct. However, by asking if there was an alternative way they would access the videos/forum home pages, they were able to complete those tasks.
+
+> Participant #3 also mentioned that they have used Chordify in the past rather than Ultimate-Guitar. They enjoyed having the ability to play along with a backing track and to have chord fingerings for every chord pop up.
+
+This agreed with some of my heuristic analysis! Chordify is much cleaner and emphasizes the ability for users to play with the song itself -- it's a lot more interactive than Ultimate-Guitar. 
+
+Thus, for version 3.0, I added small changes overall, such as adjusting spacing and adding the popular Courses button to the homepage. For annotation, I added a dropdown on the help menu to show users how they would add notes to their tabs.
 
 # Summary of Usability Testing
 
