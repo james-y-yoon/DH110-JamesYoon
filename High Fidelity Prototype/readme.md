@@ -6,7 +6,9 @@ Digital Humanities 110 - *User Experience and Design* (S'22)
 
 # What is a High-Fidelity Prototype?
 
-A high-fidelity prototype takes the static layouts and interfaces from the low-fidelity prototype into an interactive prototype that one can interact with. My project involved redesigning Ultimate-Guitar.com so that it was more user-friendly and more accessible for both beginner and advanced guitar players, particularly for my target audience of middle-aged male guitar learners. Following the low-fidelity prototype and interface design process, I added interactivity on Figma. I also went through multiple interations of my prototype after conducting 4 usability tests and a cognitive walkthrough.
+A high-fidelity prototype takes the static layouts and interfaces from the low-fidelity prototype into an interactive prototype that one can interact with. 
+
+My project involved redesigning Ultimate-Guitar.com so that it was more user-friendly and more accessible for both beginner and advanced guitar players, particularly for my target audience of middle-aged male guitar learners. Following the low-fidelity prototype and interface design process, I added interactivity on Figma. I also went through multiple interations of my prototype after conducting 4 usability tests and a cognitive walkthrough.
 
 # Prototype Tasks
 
