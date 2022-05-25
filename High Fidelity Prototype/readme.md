@@ -2,7 +2,7 @@
 
 James Yoon
 
-Digital Humanities 110 (S'22)
+Digital Humanities 110 - *User Experience and Design* (S'22)
 
 # What is a High-Fidelity Prototype?
 
@@ -122,11 +122,13 @@ My third and fourth usability tests were with people from my target audience (mi
 - Ages ranged from 20 to 56 (avg. 39)
 - Gender identity: all identified as men
 - English was primary language for all four
-- All paticipants were able to complete all tasks except annotate tab (only 1/4 could do latter)
+- All paticipants were able to complete all tasks except annotate tab (only 1/4 could do annotation)
 - System Usability Scale (SUS) Score: 77.08
+
+**Production Satisfaction Card Summary** ([an interactive version can be found here](https://voyant-tools.org/?corpus=f48f6a5014378a384bf34832a6b46663&view=Cirrus)): 
+
+![Production Satisfaction Card](word-cloud.png)
 
 > How easy for difficult to use does this prototype look (from Pre-Test Questionnaire)?
 
 Average: 1.75/5 (with 1 being easiest)
-
-**Production Satisfaction Card Summary** ([an interactive version can be found here](https://voyant-tools.org/?corpus=f48f6a5014378a384bf34832a6b46663&view=Cirrus)): 
