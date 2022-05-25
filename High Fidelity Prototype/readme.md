@@ -33,8 +33,7 @@ The complete wireflow of my prototype can be found below. [A version of the wire
 
 [The Figma file for the prototype can be found here.](https://www.figma.com/file/seDni8nNltXHUxyWOMq300/Ultimate-Guitar-A07?node-id=333%3A1441)
 
-<br>
----
+<br></br>
 
 # Testing the Prototype
 
@@ -64,8 +63,7 @@ I decided to add a way to like the video and follow the uploaders on my final pr
 
 I thought it was a great idea! I was hesitant to add this interactivity on the prototype as there was no way to actually play videos (and thus finish a video) on Figma.
 
-<br>
----
+<br></br>
 
 # Usability Testing
 
