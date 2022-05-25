@@ -71,7 +71,7 @@ After usability testing, I created version 1.0 of my prototype, [which can be ac
 
 The biggest changes from the version used in the cognitive walkthrough was based on the self-checklist, namely that there should be a minimal number of hues (any blues were replaced with green), that the spacing between elements should be consistent across all frames, and that the relative formatting between frames should be consistent as well. To achieve the latter, I added search bars to the tab page, the courses page, and the videos page. I also made sure the titles on these pages were centered rather than left-aligned.
 
-The following usability tests were conducted over Zoom. [A link to the form can be found here](https://forms.gle/4RWmx9nbzaWm57Gz7). Some tasks were altered from the initial pilot usability test (conducted on the Ultimate-Guitar website itself), namely that different course and tab names were used (my prototype only has generic course names and *Pagan Poetry*), and the transposition interactivity is not as fleshed out as the current website.
+The following usability tests were conducted over Zoom. [A link to the usability testing form can be found here](https://forms.gle/4RWmx9nbzaWm57Gz7). Some tasks were altered from the initial pilot usability test (conducted on the Ultimate-Guitar website itself), namely that different course and tab names were used (my prototype only has generic course names and *Pagan Poetry*), and the transposition interactivity is not as fleshed out as the current website.
 
 ## First Usability Test (5/23/2022; 20M)
 
