@@ -67,7 +67,7 @@ I thought it was a great idea! I was hesitant to add this interactivity on the p
 
 # Usability Testing
 
-After usability testing, I created version 1.0 of my prototype, [which can be accessed here](https://www.figma.com/proto/2bDBQXIf77SMKvtWaLMbE2/Ultimate-Guitar-A07-(Archived-Versions)?node-id=321%3A851&scaling=scale-down&page-id=0%3A1&starting-point-node-id=321%3A1434). 
+After the cognitive walkthrough and before usability testing, I created version 1.0 of my prototype, [which can be accessed here](https://www.figma.com/proto/2bDBQXIf77SMKvtWaLMbE2/Ultimate-Guitar-A07-(Archived-Versions)?node-id=321%3A851&scaling=scale-down&page-id=0%3A1&starting-point-node-id=321%3A1434). 
 
 The biggest changes from the version used in the cognitive walkthrough was based on the self-checklist, namely that there should be a minimal number of hues (any blues were replaced with green), that the spacing between elements should be consistent across all frames, and that the relative formatting between frames should be consistent as well. To achieve the latter, I added search bars to the tab page, the courses page, and the videos page. I also made sure the titles on these pages were centered rather than left-aligned.
 
