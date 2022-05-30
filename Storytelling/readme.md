@@ -16,15 +16,15 @@ I developed two personas for my project: Richard Smith and Elizabeth Perez.
 
 ### Richard Smith
 
-![Richard Smith's Demographics](Persona-1.png)
+![Richard Smith's Demographics](Persona-1 [Updated].png)
 
-![Richard Smith's Empathy Map](Empathy-Map-1.png)
+![Richard Smith's Empathy Map](Empathy-Map-1 [Updated].png)
 
 ### Elizabeth Perez
 
-![Elizabeth Perez's Demographics](Persona-2.png)
+![Elizabeth Perez's Demographics](Persona-2 [Updated].png)
 
-![Elizabeth Perez's Empathy Map](Empathy-Map-2.png)
+![Elizabeth Perez's Empathy Map](Empathy-Map-2 [Updated].png)
 
 
 ## Proposed Tasks
@@ -46,7 +46,7 @@ My proposed design would have the functionality for users to:
 
 ### User's Journey
 
-![Richard Smith's Journey](Journey-1.png)
+![Richard Smith's Journey](Journey-1 [Updated].png)
 
 
 
@@ -63,5 +63,5 @@ My proposed design would have the functionality for users to:
 
 ### User's Journey
 
-![Elizabeth Perez's Journey](Journey-2.png)
+![Elizabeth Perez's Journey](Journey-2 [Updated].png)
 
