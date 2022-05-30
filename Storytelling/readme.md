@@ -22,7 +22,7 @@ I developed two personas for my project: Richard Smith and Elizabeth Perez.
 
 ### Elizabeth Perez
 
-![Elizabeth Perez's Demographics](Persona-2-updated].png)
+![Elizabeth Perez's Demographics](Persona-2-updated.png)
 
 ![Elizabeth Perez's Empathy Map](Empathy-Map-2-updated.png)
 
