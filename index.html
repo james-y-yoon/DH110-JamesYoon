@@ -1,101 +1,287 @@
 <!doctype html>
+
 <html lang="en">
+
+  <!-- HEAD -->
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <style>
+    body {background-image: linear-gradient(to bottom right, #FFEEEE, #DDEFBB);}
+    .cropped {object-fit: cover;
+      height: 275px;}
+    </style>
+
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
-    <title>Ultimate-Guitar Redesign</title>
+    <title>DH 110: Ultimate-Guitar Redesign</title>
+
   </head>
-  <body class="m-5">
+
+
+  <!-- BODY -->
+  <body class="m-5" style="background-color:#F2EAF5">
+
     <h1 class="display-3 py-5">Ultimate-Guitar UX Redesign</h1>
-    <h2 class="lead">James Yoon's UX Project for Digital Humanities 110 (S'22)</h2>
+    <h2 class="lead">UX Project by James Yoon</h2>
 
-    <p>This project involved redesigning Ultimate-Guitar to be more user-friendly for both beginner and advanced guitar players.</p>
+    <p>This project, conducted as part of Digital Humanities 110 in Spring 2022, involved redesigning Ultimate-Guitar to be more user-friendly for both beginner and advanced guitar players.
+    Throughout the course of the quarter, I went through the research and design process, starting with heuristic analysis and user research
+    to designing and testing my own prototype on Figma.
+
+    <br>
+    <br>
+    As a novice-intermediate guitar player who learned guitar through Ultimate-Guitar and Youtube videos, I was curious as to how to make this process easier for newer players while
+    still retaining long-term users and more advanced players. For context, my target audience for this project was middle-aged men interested in guitar learning. </p>
+
+    <br>
+
+    <!-- DESIGN STATEMENT -->
+    <div class="card">
+      <div class="lead card-header">
+        Design Statement
+      </div>
+    <div class="card-body">
+      <blockquote class="lead blockquote mb-0">
+        <p>For this project, I identified the issues to be a non-intuitive labeling (using "Shots" instead of "Videos"), overall design clutter,
+        and lack of flexibility or features like annotation. Overall, this website seemed tailored to long-term users and advanced guitar players, thus excluding a significant portion of their potential userbase.</p>
+      </blockquote>
+    </div>
+  </div>
+  <br>
 
 
+  <!-- PROJECT HEADING -->
+  <h2 class="display-6 py-5">Competitor Analysis</h2>
+  <hr>
+
+  <!-- START TWO-COLUMN LAYOUT -->
+  <div class="row row-cols-1 row-cols-md-2 g-4">
+    <div class="col">
+
+      <!-- CARD -->
+      <div class="card">
+        <h5 class="lead card-header">Step 1</h5>
+        <img class="cropped" src="https://github.com/james-y-yoon/DH110-JamesYoon/blob/main/Heuristics/Figures/UG_Large_Screen.png?raw=true" class="card-img-top" alt="UG Original Site">
+
+        <div class="card-body">
+            <h5 class=" lead card-title">Heuristic Analysis</h5>
+            <hr>
+        <p class="card-text">I conducted heuristic analysis on the original Ultimate-Guitar site to identify potential design flaws.
+        I then compared the heuristic results from Ultimate-Guitar to ones obtained from Chordify, a similar guitar tab and course site.</p>
+
+        <p class="card-text">Overall, I found that Chordify fared better in all of the heuristics except helping users diagnose errors, help and documentation,
+        recognition rather than recall (due to unclear labeling in the tab interface), and flexibility (too much emphasis on interactivity).
+        On the other hand, Ultimate-Guitar was too inconsistent (using the term "Shots" rather than "Videos"), inflexible (too much focus on
+        advanced users), and suffered aesthetically (too much clutter and unnecessary information).</p>
+
+        <p class="card-text">Following heuristic analysis, I identified potential sources of improvement in Ultimate-Guitar's design. I then needed to corroborate these
+          flaws with actual users.</p>
+
+        <!-- BUTTON -->
+        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Heuristics/" class="btn btn-outline-secondary">Read more about heuristic analysis</a>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col">
+
+      <!-- CARD -->
+      <div class="card">
+        <h5 class="lead card-header">Step 2</h5>
+        <img class="cropped" src="https://github.com/james-y-yoon/DH110-JamesYoon/blob/main/Usability%20Testing/homepage-2.jpg?raw=true" class="card-img-top" alt="Google Form Screenshot of UT">
+
+        <div class="card-body">
+            <h5 class=" lead card-title">Competitor Usability Testing</h5>
+            <hr>
+        <p class="card-text">To corroborate my heuristic analysis and to identify more potential improvements in Ultimate-Guitar's design,
+          I used my heuristic analysis to create four tasks for a pilot usability test.</p>
+
+          <p class="card-text">I designed these tasks to encompass the four main features of Ultimate-Guitar: the courses, the tabs, the videos/Shots, and the forums.
+
+          My participant said that the website looked difficult to use; they also had some trouble navigating the guitar tabs. </p>
+
+          <p class="card-text">Following this pilot usability test, I gained insight into how a user would interact with the website and how I, as a UX researcher, should moderate a UX test.</p>
+        <!-- BUTTON -->
+        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Usability%20Testing/" class="btn btn-outline-secondary">Read more about usability testing</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <br>
+
+  <!-- PROJECT HEADING -->
+  <h2 class="display-6 py-5">User Research and Storytelling</h2>
+  <hr>
+
+  <!-- START TWO-COLUMN LAYOUT -->
+  <div class="row row-cols-1 row-cols-md-2 g-4">
+    <div class="col">
+
+      <!-- CARD -->
+      <div class="card">
+        <h5 class="lead card-header">Step 3</h5>
+        <img class="cropped" src="https://github.com/james-y-yoon/DH110-JamesYoon/blob/main/Contextual%20Inquiry/Interview_Picture_Compressed.jpg?raw=true" class="card-img-top" alt="Contextual Inquiry Interview">
+
+        <div class="card-body">
+            <h5 class=" lead card-title">Contextual Inquiry</h5>
+            <hr>
+        <p class="card-text">After identify potential improvements to the original Ultimate-Guitar site, I was interested in how potential users interact with guitar tabs and sheet music, unconstrained by an app or website.
+        To study this, I conducted an interview with a piano player who also played guitar and drums on the side. Following the interview, I observed a small-group ensemble's rehearsal. </p>
+
+        <p class="card-text">My findings included that musicians tend to mark up their sheet music with notes about tempo/fingerings, that they like to
+        play with a backing track (with options to slow down or speed up the song), and that playing in groups helped keep musicians motivated to practice.</p>
+
+        <p class="card-text">Using these insights, I was ready to start thinking about potential users for my redesign.</p>
+
+        <!-- BUTTON -->
+        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Contextual%20Inquiry/" class="btn btn-outline-secondary">Read more about contextual inquiry</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+
+      <!-- CARD -->
+      <div class="card">
+        <h5 class="lead card-header">Step 4</h5>
+        <img class="cropped" src="https://github.com/james-y-yoon/DH110-JamesYoon/blob/main/Storytelling/Summary_Personas.png?raw=true" class="card-img-top" alt="Persona Summary">
+
+        <div class="card-body">
+            <h5 class=" lead card-title">UX Storytelling</h5>
+            <hr>
+        <p class="card-text">After studying potential users, I developed two personas: </p>
+
+        <ul>
+          <li><b>Richard Smith</b>: a data scientist who is completely new to guitar and doesn't have the time for in-person classes.</li>
+          <li><b>Elizabeth Perez</b>: an artist who wants inspiration for her indie-pop band's upcoming EP.</li>
+        </ul>
+
+          <p class="card-text">I then created empathy maps for each persona, as well as two scenarios related to these personas, including learning the basics of guitar through Ultimate-Guitar's courses and browsing videos to find new techniques and chord progressions.</p>
+
+          <p class="card-text">With these personas and scenarios, I was ready to start prototyping!</p>
+        <!-- BUTTON -->
+        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Storytelling/" class="btn btn-outline-secondary">Read more about the personas</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <br>
+
+  <!-- PROJECT HEADING -->
+  <h2 class="display-6 py-5">Prototyping and Design</h2>
+  <hr>
+
+  <!-- START TWO-COLUMN LAYOUT -->
+  <div class="row row-cols-1 row-cols-md-2 g-4">
+    <div class="col">
+
+      <!-- CARD -->
+      <div class="card">
+        <h5 class="lead card-header">Step 5</h5>
+        <img class="cropped" src="https://github.com/james-y-yoon/DH110-JamesYoon/blob/main/Low%20Fidelity%20Prototype/LFP-1.jpg?raw=true" class="card-img-top" alt="Low-Fidelity Prototype">
+
+        <div class="card-body">
+            <h5 class=" lead card-title">Low-Fidelity Prototype</h5>
+            <hr>
+        <p class="card-text">Using my personas and scenarios and the four tasks in my pilot UT, I created a low-fidelity prototype of my proposed redesign. </p>
+
+          <p class="card-text">After the first version of my
+        low-fidelity prototype was ready, I had a user trace through my wireflow and make suggestions based on where they got stuck. Using their insights (such as identifying unclear labels), I
+      created a revised version to use in future steps.</p>
+
+        <!-- BUTTON -->
+        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Low%20Fidelity%20Prototype/" class="btn btn-outline-secondary">Access the low-fidelity prototype</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+
+      <!-- CARD -->
+      <div class="card">
+        <h5 class="lead card-header">Step 6</h5>
+        <img class="cropped" src="https://raw.githubusercontent.com/james-y-yoon/DH110-JamesYoon/main/Interface%20Design/Typography.png" class="card-img-top" alt="Typography Comparisons">
+        <div class="card-body">
+            <h5 class=" lead card-title">Interface Design</h5>
+            <hr>
+        <p class="card-text">As my low-fidelity prototype had no design elements, I selected my prototype's homepage and made design iterations with the
+        interface's grid layout, shapes, and color schemes. Both a dark and a light mode were created, and the color contrasts were
+        verified to pass WCAG 2.1 AA.</p>
+
+          <p class="card-text">I then conducted an impression test on my potential interfaces, and based on my participant's feedback, I chose an interface to use in future steps.</p>
+
+        <!-- BUTTON -->
+        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Interface%20Design/" class="btn btn-outline-secondary">Access the proposed interfaces</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <br>
+
+  <!-- PROJECT HEADING -->
+  <h2 class="display-6 py-5">Final Design</h2>
+  <hr>
+
+  <!-- START TWO-COLUMN LAYOUT -->
+  <div class="row row-cols-1 row-cols-md-1 g-0"
+
+      <div class="col">
+
+        <!-- CARD -->
+        <div class="card">
+          <h5 class="lead card-header">Step 7</h5>
+          <div class="card-body">
+              <h5 class=" lead card-title">High-Fidelity Prototype and Prototype UT</h5>
+              <hr>
+          <p class="card-text">I digitized the low-fidelity prototype with Figma and added interactivity. I then revised this design through a cognitive walkthrough, where my peers
+          went through the persona scenarios from Step 4 and identified any potential pitfalls in my design.</p>
+
+          <p class="card-text">Finally, I conducted four usability tests (average age: 39; all identiifed as male) and created three iterations of my prototype. From the UT, I calculated a SUS score of 77.08 and analyzed the production satisfaction card. These changes included
+          changing the placement of the Tempo and Key buttons, adjusting the spacing of tabs to fit more lyrics onto the screen, and removing the album art and making it into a banner instead. </p>
+
+          <!-- BUTTON -->
+          <a href="https://james-y-yoon.github.io/DH110-JamesYoon/High%20Fidelity%20Prototype/" class="btn btn-outline-secondary">Access the high-fidelity prototype(s) and UT here</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <br>
+
+    <center>
+      <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FseDni8nNltXHUxyWOMq300%2FUltimate-Guitar-A07%3Fnode-id%3D333%253A1442%26scaling%3Dscale-down%26page-id%3D333%253A1441%26starting-point-node-id%3D333%253A1442" allowfullscreen></iframe>
+    </center>
+
+    <!-- 
+    <h2 class="display-6 py-5">Pitch Video</h2>
+    <hr> -->
+
+    <!-- PROJECT HEADING -->
+    <h2 class="display-6 py-5">Conclusions</h2>
     <hr>
 
-    <div class="row row-cols-1 row-cols-md-2 g-4">
+    <p>Overall, I enjoyed going through the user research and design process a lot!</p>
 
-  <div class="col">
-    <div class="card text-dark bg-light mb-3">
-      <img src="https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170" class="card-img-top" alt="Heuristic Evaluation Site">
-      <div class="card-body">
-        <h5 class="card-title">1: Heuristic Analysis</h5>
-        <p class="card-text">I conducted heuristic analysis on the original Ultimate-Guitar site to identify potential design flaws.</p>
-        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Heuristics/" class="btn btn-dark" text-align="center">Read more about heuristic analysis</a>
-      </div>
-    </div>
-  </div>
+    <p>I didn't expect to have so much fun doing the contextual inquiry, so that step was definitely one of my favorites.
+    Looking back at my goals to declutter Ultimate-Guitar and to make it more accessible to beginner guitar players while still providing advanced users flexibility,
+    I think I was able to fulfill most of those goals, as evidenced from my prototype UT tests! The prototype is far from perfect though (as is the case with all designs), and I think another round of research into annotation and transposition could be helpful. That way, we could find if guitar players don't annotate guitar tabs the
+    same way as classical musicians with their sheet music. Thus, this project can be part of a larger project with many more design iterations.</p>
 
-  <div class="col">
-    <div class="card text-dark bg-light mb-3">
-      <img src="https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170" class="card-img-top" alt="Original UT Site">
-      <div class="card-body">
-        <h5 class="card-title">2: Usability Testing</h5>
-        <p class="card-text">I conducted a pilot usability test on the original Ultimate-Guitar site.</p>
-        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Usability%20Testing/" class="btn btn-dark" text-align="center">Read more about usability testing</a>
-      </div>
-    </div>
-  </div>
+    <p>The hardest part of the design process was the interface design and recruiting members from my target audience for UT. It was difficult selecting colors that would maintain enough color contrast while
+    minimizing the number of hues in the design, and I also had the issue of choosing whether to maintain Ultimate-Guitar's black-yellow color scheme despite my impression test indicating that the scheme appeared outdated. UT recruitment was difficult as well,
+    hence why two of my prototype's UT participants were college-students rather than middle-aged. Nevertheless, Professor Sookie provided me with one potential connection, which helped me recruit another participant through snowballing. Conducting these UTs also illustrated how demographics play a large role in
+    how someone interacts with a website, which was something I hadn't considered before.</p>
 
-  <div class="col">
-    <div class="card text-dark bg-light mb-3">
-      <img src="https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170" class="card-img-top" alt="Contextual Inquiry Site">
-      <div class="card-body">
-        <h5 class="card-title">3: Contextual Inquiry</h5>
-        <p class="card-text">Using an interview and ethnography, I studied how musicians in an ensemble interacted with their music.</p>
-        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Contextual%20Inquiry/" class="btn btn-dark" text-align="center">Learn about my research insights</a>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card text-dark bg-light mb-3">
-      <img src="https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170" class="card-img-top" alt="UX Storytelling Site">
-      <div class="card-body">
-        <h5 class="card-title">4: UX Storytelling</h5>
-        <p class="card-text">I created two personas and two scenarios based on my research.</p>
-        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Storytelling/" class="btn btn-dark" text-align="center">Explore the personas and scenarios</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card text-dark bg-light mb-3">
-      <img src="https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170" class="card-img-top" alt="Low-Fidelity Prototype Site">
-      <div class="card-body">
-        <h5 class="card-title">5: Wireflow and Flow</h5>
-        <p class="card-text">Using the personas and scenarios, I designed a low-fidelity prototype.</p>
-        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Low%20Fidelity%20Prototype/" class="btn btn-dark" text-align="center">Look through the low-fidelity prototype</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card text-dark bg-light mb-3">
-      <img src="https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170" class="card-img-top" alt="Interface Design Site">
-      <div class="card-body">
-        <h5 class="card-title">6: Interface Design</h5>
-        <p class="card-text">I created different interface designs on the homepage.</p>
-        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/Interface%20Design/" class="btn btn-dark" text-align="center">Explore my different interface designs</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card text-dark bg-light mb-3">
-      <img src="https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170" class="card-img-top" alt="High-Fidelity Prototype Site">
-      <div class="card-body">
-        <h5 class="card-title">7: High-Fidelity Prototyping</h5>
-        <p class="card-text">I translated my low-fidelity prototype into an interactive one and improved it through a cognitive walkthrough and 4 usability tests.</p>
-        <a href="https://james-y-yoon.github.io/DH110-JamesYoon/High%20Fidelity%20Prototype/" class="btn btn-dark" text-align="center">Try my high-fidelity prototype</a>
-      </div>
-    </div>
-  </div>
+    <p>In the future, aside from conducting more research, I'd want to refine my color scheme and do more impression tests on different hues, recruiting members from both the Ultimate-Guitar community and outside of it. That way, I can determine
+    whether changing the brand's colors would affect user satisfaction, especially since some of these users have likely been accessing this website for years.</p>
 
   <!--
 
